@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background= "@mipmap/appbg3">
+
+    <Button
+        android:layout_marginTop="30dp"
+        android:layout_below="@+id/day8et"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/enterButton"
+        android:text="Enter"
+        android:onClick="addSchedule"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/clearButton"
+        android:text="Clear Schedule"
+        android:onClick="clearSchedule"/>
+    <TextView
+        android:layout_width="4500dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_below="@id/clearButton"
+        android:id="@+id/instructions"
+        android:textSize="18dp"
+        android:textColor="#000"
+        android:text="Please Enter Your Period 4 Class For Each Day.       If You Have A Free, Type In: Free"/>
+    <EditText
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/day1et"
+        android:layout_below="@+id/instructions"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/day2et"
+        android:layout_below="@+id/day1et"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/day3et"
+        android:layout_below="@+id/day2et"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/day4et"
+        android:layout_below="@+id/day3et"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/day5et"
+        android:layout_below="@+id/day4et"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/day6et"
+        android:layout_below="@+id/day5et"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/day7et"
+        android:layout_below="@+id/day6et"/>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/day8et"
+        android:layout_below="@+id/day7et"/>
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_marginTop="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/day2et"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:text="4ab Class"
+        android:onClick = "onCheckBoxClicked"/>
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/day3et"
+        android:layout_alignLeft="@+id/checkBox"
+        android:layout_alignStart="@+id/checkBox"
+        android:text="4ab Class"
+        android:onClick = "onCheckBoxClicked"/>
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/day4et"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:text="4ab Class"
+        android:onClick = "onCheckBoxClicked"/>
+
+    <CheckBox
+        android:id="@+id/checkBox4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/day5et"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:text="4ab Class"
+        android:onClick = "onCheckBoxClicked"/>
+
+    <CheckBox
+        android:id="@+id/checkBox5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4ab Class"
+        android:onClick = "onCheckBoxClicked"
+        android:layout_above="@+id/day6et"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <CheckBox
+        android:id="@+id/checkBox6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/day7et"
+        android:layout_alignLeft="@+id/checkBox5"
+        android:layout_alignStart="@+id/checkBox5"
+        android:text="4ab Class"
+        android:onClick = "onCheckBoxClicked"/>
+
+    <CheckBox
+        android:id="@+id/checkBox7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="4ab Class"
+        android:onClick = "onCheckBoxClicked"
+        android:layout_above="@+id/day8et"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <CheckBox
+        android:id="@+id/checkBox8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/enterButton"
+        android:layout_alignLeft="@+id/checkBox7"
+        android:layout_alignStart="@+id/checkBox7"
+        android:text="4ab Class"
+        android:onClick = "onCheckBoxClicked"/>
+
+    <CheckBox
+        android:layout_marginTop="30dp"
+        android:id="@+id/checkBox12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Science Course"
+        android:layout_alignBaseline="@+id/checkBox4"
+        android:layout_alignBottom="@+id/checkBox4"
+        android:layout_toLeftOf="@+id/checkBox4"
+        android:layout_toStartOf="@+id/checkBox4"
+        android:onClick = "onCheckBoxClicked"/>
+
+    <CheckBox
+        android:id="@+id/checkBox15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Science Course"
+        android:layout_alignBaseline="@+id/checkBox7"
+        android:layout_alignBottom="@+id/checkBox7"
+        android:layout_toLeftOf="@+id/checkBox7"
+        android:layout_toStartOf="@+id/checkBox7"
+        android:onClick = "onCheckBoxClicked"/>
+
+    <CheckBox
+        android:id="@+id/checkBox10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Science Course"
+        android:layout_alignBaseline="@+id/checkBox2"
+        android:layout_alignBottom="@+id/checkBox2"
+        android:layout_toLeftOf="@+id/checkBox2"
+        android:layout_toStartOf="@+id/checkBox2"
+        android:onClick = "onCheckBoxClicked"/>
+
+    <CheckBox
+        android:id="@+id/checkBox16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Science Course"
+        android:layout_alignBaseline="@+id/checkBox8"
+        android:layout_alignBottom="@+id/checkBox8"
+        android:layout_toLeftOf="@+id/checkBox8"
+        android:layout_toStartOf="@+id/checkBox8"
+        android:onClick = "onCheckBoxClicked"/>
+
+    <CheckBox
+        android:id="@+id/checkBox13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/checkBox5"
+        android:layout_alignBottom="@+id/checkBox5"
+        android:layout_toLeftOf="@+id/checkBox5"
+        android:layout_toStartOf="@+id/checkBox5"
+        android:text="Science Course"
+        android:onClick = "onCheckBoxClicked"/>
+
+    <CheckBox
+        android:id="@+id/checkBox14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Science Course"
+        android:layout_alignBaseline="@+id/checkBox6"
+        android:layout_alignBottom="@+id/checkBox6"
+        android:layout_toLeftOf="@+id/checkBox6"
+        android:layout_toStartOf="@+id/checkBox6"
+        android:onClick = "onCheckBoxClicked"/>
+
+    <CheckBox
+        android:id="@+id/checkBox11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Science Course"
+        android:layout_alignBaseline="@+id/checkBox3"
+        android:layout_alignBottom="@+id/checkBox3"
+        android:layout_toLeftOf="@+id/checkBox3"
+        android:layout_toStartOf="@+id/checkBox3"
+        android:onClick = "onCheckBoxClicked"/>
+
+    <CheckBox
+        android:id="@+id/checkBox9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/checkBox"
+        android:layout_toLeftOf="@+id/checkBox"
+        android:layout_toStartOf="@+id/checkBox"
+        android:text="Science Course"
+        android:onClick = "onCheckBoxClicked"/>
+
+</RelativeLayout>

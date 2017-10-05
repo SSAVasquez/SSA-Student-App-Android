@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fuady.ssa_app_redo1"
+    android:versionCode="18"
+    android:versionName="11.3" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="25" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature
+        android:name="android.hardware.camera.front"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.camera.flash"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.screen.landscape"
+        android:required="false" />
+    <uses-feature
+        android:name="android.hardware.wifi"
+        android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@mipmap/appicon"
+        android:label="Student App"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar" >
+        <activity android:name="com.fuady.ssa_app_redo1.SplashScreenActivity" >
+            <intent-filter>
+                <action
+                    android:name="android.intent.action.MAIN"
+                    android:screenOrientation="portrait" />
+
+                <category
+                    android:name="android.intent.category.LAUNCHER"
+                    android:screenOrientation="portrait" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.fuady.ssa_app_redo1.MainActivity" >
+            <intent-filter>
+                <action
+                    android:name="android.intent.action.MAIN"
+                    android:screenOrientation="portrait" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.fuady.ssa_app_redo1.barcodeActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fuady.ssa_app_redo1.editScheduleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fuady.ssa_app_redo1.editDayScheduleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fuady.ssa_app_redo1.addScheduleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fuady.ssa_app_redo1.friendActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fuady.ssa_app_redo1.shareScheduleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fuady.ssa_app_redo1.otherActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.fuady.ssa_app_redo1.browserActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+            android:clearTaskOnLaunch="true"
+            android:screenOrientation="sensorLandscape"
+            android:stateNotNeeded="true"
+            android:theme="@style/zxing_CaptureTheme"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+    </application>
+
+</manifest>

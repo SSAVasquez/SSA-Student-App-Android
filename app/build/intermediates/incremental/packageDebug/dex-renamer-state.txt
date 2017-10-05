@@ -1,0 +1,7 @@
+#Tue Oct 03 23:08:35 EDT 2017
+base.0=C\:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_160e3ded448d51eee1062624e683cf210bf81ed8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d29127bebf0b9b4bdd16067b6c9da11bb1acf3cf\\classes.dex
+base.1=C\:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_d29127bebf0b9b4bdd16067b6c9da11bb1acf3cf
+file.0=C\:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_160e3ded448d51eee1062624e683cf210bf81ed8\\classes.dex

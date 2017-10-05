@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background= "@mipmap/appbg"
+    >
+    <TextView
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/text11"
+        android:textSize="24dp"
+        android:text="Choose a Schedule to Edit"/>
+    <ListView
+        android:layout_marginTop="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/dayList"
+        android:layout_below="@id/text11"
+        android:layout_alignParentEnd="true">
+
+    </ListView>
+
+</RelativeLayout>

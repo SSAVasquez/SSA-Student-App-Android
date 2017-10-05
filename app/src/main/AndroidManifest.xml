@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fuady.ssa_app_redo1">
+    <supports-screens android:resizeable= "true"
+        android:smallScreens="true"
+        android:normalScreens="true"
+        android:largeScreens="true"
+        android:xlargeScreens="true"
+        android:anyDensity="true"
+        />
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/appicon"
+        android:hardwareAccelerated="false"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar"
+        android:label="Student App"
+
+        >
+
+        <activity android:name="com.fuady.ssa_app_redo1.SplashScreenActivity">
+
+            <intent-filter>
+
+                <action android:name="android.intent.action.MAIN"
+                    android:screenOrientation="portrait"/>
+
+                <category android:name="android.intent.category.LAUNCHER"
+                    android:screenOrientation="portrait"/>
+            </intent-filter>
+
+
+        </activity>
+        <activity android:name="com.fuady.ssa_app_redo1.MainActivity">
+
+            <intent-filter>
+
+                <action android:name="android.intent.action.MAIN"
+                    android:screenOrientation="portrait"/>
+
+            </intent-filter>
+
+
+        </activity>
+        <activity android:name="com.fuady.ssa_app_redo1.barcodeActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.fuady.ssa_app_redo1.editScheduleActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.fuady.ssa_app_redo1.editDayScheduleActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.fuady.ssa_app_redo1.addScheduleActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.fuady.ssa_app_redo1.friendActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.fuady.ssa_app_redo1.shareScheduleActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name="com.fuady.ssa_app_redo1.otherActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name="com.fuady.ssa_app_redo1.browserActivity"
+            android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>

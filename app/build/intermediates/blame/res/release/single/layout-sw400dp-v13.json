@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\barcode.xml",
+        "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\layout-sw400dp\\barcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\barcode_nobarcode.xml",
+        "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\layout-sw400dp\\barcode_nobarcode.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\about_page.xml",
+        "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\layout-sw400dp\\about_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\display_qr_layout.xml",
+        "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\layout-sw400dp\\display_qr_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\friends.xml",
+        "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\layout-sw400dp\\friends.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\others.xml",
+        "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\layout-sw400dp\\others.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\barcode_container.xml",
+        "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\layout-sw400dp\\barcode_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\add_schedule_screen.xml",
+        "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\layout-sw400dp\\add_schedule_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\scan_screen.xml",
+        "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\layout-sw400dp\\scan_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\layout-sw400dp-v13\\activity_main.xml",
+        "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\layout-sw400dp\\activity_main.xml"
+    }
+]

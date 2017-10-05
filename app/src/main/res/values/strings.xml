@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SSA_APP</string>
+    <string name="scan">Scan</string>
+    <string name="btn_scan_now">Scan Now</string>
+    <string name="scan_bar_code">Scan a Bar Code</string>
+    <string name = "aboutpageinfo">Shady Side Academy Student App
+
+(c) Shady Side Academy CS Club
+Contact us at: therealcomputerscienceclub@shadysideacademy.org
+
+CS Club Personel
+President – Henry Friedlander
+Vice President and Lead Android Developer – Fuad Youssef
+Lead iOS Developer – Peter Wang
+Graphic Designer – Aidan Schilling
+Server Developer – Tom Scherlis
+Administrative Tool Development – Thomas Jordan and Rain Du
+
+Design based on the SSA Mobile created by David Franklin and Colin Mason</string>
+</resources>
