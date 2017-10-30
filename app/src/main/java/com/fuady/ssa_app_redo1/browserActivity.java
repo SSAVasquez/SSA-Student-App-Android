@@ -19,7 +19,7 @@ public class browserActivity extends AppCompatActivity{
         setContentView(R.layout.web_layout);
         webView = (WebView)findViewById(R.id.browserView);
         Bundle extras = getIntent().getExtras();
-        newString= extras.getString("STRING_I_NEED");
+
                     /*
                     webView.setWebViewClient(new MyWebViewClient());
                     webView.loadUrl(fullURLS[position]);
