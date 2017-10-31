@@ -1,4 +1,4 @@
-#Tue Oct 03 23:08:34 EDT 2017
+#Tue Oct 31 18:54:40 EDT 2017
 file.2=C\:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\core-3.2.1_1d6fcca57affe9660ab527832ea82f22dc1731ae\\classes.dex
 base.2=C\:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\core-3.2.1_1d6fcca57affe9660ab527832ea82f22dc1731ae
 file.1=C\:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4aec4a7ea1178e650124418cd8b310835d406937\\classes.dex

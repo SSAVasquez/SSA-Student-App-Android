@@ -7,8 +7,8 @@ android {
         applicationId "com.fuady.ssa_app_redo1"
         minSdkVersion 15
         targetSdkVersion 25
-        versionCode 18
-        versionName "11.3"
+        versionCode 19
+        versionName "12"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {

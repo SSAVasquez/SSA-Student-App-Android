@@ -1,11 +1,19 @@
 [
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\halloweenbg.png",
+        "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\mipmap-xxxhdpi\\halloweenbg.png"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\appbg2.png",
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\mipmap-xxxhdpi\\appbg2.png"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\halloweenbgsmall.png",
+        "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\mipmap-xxxhdpi\\halloweenbgsmall.png"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\appbg3.png",

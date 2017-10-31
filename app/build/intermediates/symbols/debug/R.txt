@@ -911,9 +911,11 @@ int mipmap appbg2 0x7f030001
 int mipmap appbg3 0x7f030002
 int mipmap appbg4 0x7f030003
 int mipmap appicon 0x7f030004
-int mipmap ic_launcher 0x7f030005
-int mipmap ic_launcher_round 0x7f030006
-int mipmap splashscreen 0x7f030007
+int mipmap halloweenbg 0x7f030005
+int mipmap halloweenbgsmall 0x7f030006
+int mipmap ic_launcher 0x7f030007
+int mipmap ic_launcher_round 0x7f030008
+int mipmap splashscreen 0x7f030009
 int raw zxing_beep 0x7f060000
 int string abc_action_bar_home_description 0x7f070000
 int string abc_action_bar_home_description_format 0x7f070001

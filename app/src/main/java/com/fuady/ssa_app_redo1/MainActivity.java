@@ -231,6 +231,7 @@ public class MainActivity extends AppCompatActivity /*implements View.OnClickLis
                 return false;
             if(e1.getX() - e2.getX() >25 &&
                     Math.abs(velocityX) > 5) {
+                //overridePendingTransition(R.anim.slide_in_left, R.anim.slide_out_right);
                 realNextDay();
             }  else if (e2.getX() - e1.getX() >25 &&
                     Math.abs(velocityX) >5) {
@@ -794,7 +795,6 @@ public class MainActivity extends AppCompatActivity /*implements View.OnClickLis
         ListView lv = (ListView) findViewById(R.id.listView);
         lv.setAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1,
                 courseNames));
-
         final GestureDetector gestureDetector = new GestureDetector(new MyGestureDetector());
         View.OnTouchListener gestureListener = new View.OnTouchListener() {
             public boolean onTouch(View v, MotionEvent event) {
