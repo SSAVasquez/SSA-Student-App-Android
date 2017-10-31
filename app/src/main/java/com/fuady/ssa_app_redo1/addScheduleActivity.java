@@ -90,7 +90,13 @@ public class addScheduleActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.add_schedule_screen);
-
+        try {
+            OutputStreamWriter writerTwo = new OutputStreamWriter(getApplicationContext().openFileOutput(
+                    "period4Courses", Context.MODE_PRIVATE));
+            writerTwo.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
         //moved from onResume to prevent crashing on returning from recent apps button
         activeEdit1 = (EditText) findViewById(R.id.day1et);
@@ -181,7 +187,7 @@ public class addScheduleActivity extends AppCompatActivity {
                 String line = reader.readLine();
                 // System.out.println("line = "+ line);
                 if (line != null) {
-                    result = line.split(" ");
+                    result = line.split(",");
                 }
                 if (line == null) {
                     break;
@@ -466,16 +472,16 @@ public class addScheduleActivity extends AppCompatActivity {
             for(int i = 0; i<myCourses.size(); i++){
                 String toWrite = myCourses.get(i).name;
                 if(myCourses.get(i).is4ab == true){
-                    toWrite += " 0";
+                    toWrite += ",0";
                 }
                 if(myCourses.get(i).is4ab == false){
-                    toWrite += " 1";
+                    toWrite += ",1";
                 }
                 if(myCourses.get(i).isScience == true){
-                    toWrite += " 0";
+                    toWrite += ",0";
                 }
                 if(myCourses.get(i).isScience == false){
-                    toWrite += " 1";
+                    toWrite += ",1";
                 }
                 writer.write(toWrite + '\n');
                 /*
