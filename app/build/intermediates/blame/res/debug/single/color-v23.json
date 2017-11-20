@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\1f4ade882a329f903596567dedf6e19f82f0974a\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
         "source": "C:\\Users\\fuady\\.android\\build-cache\\f82a61480ea9357136503981e713d826f45a087e\\output\\res\\color-v23\\abc_tint_default.xml"
     },

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "916714639273",
+    "firebase_url": "https://ssa-student-app.firebaseio.com",
+    "project_id": "ssa-student-app",
+    "storage_bucket": "ssa-student-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916714639273:android:ad218d0321dbfaf7",
+        "android_client_info": {
+          "package_name": "com.fuady.ssa_app_redo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916714639273-2e48contj87bg9krlgsvb2hg08j4hc4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj5R9VFU1eFSmotMa3ewfIGysoWVNm6N8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

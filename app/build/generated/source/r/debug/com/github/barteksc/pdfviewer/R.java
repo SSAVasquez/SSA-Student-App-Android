@@ -8,22 +8,22 @@ package com.github.barteksc.pdfviewer;
 
 public final class R {
     public static final class attr {
-        public static final int sb_handlerColor = 0x7f0100e2;
-        public static final int sb_horizontal = 0x7f0100e5;
-        public static final int sb_indicatorColor = 0x7f0100e3;
-        public static final int sb_indicatorTextColor = 0x7f0100e4;
+        public static final int sb_handlerColor = 0x7f0100e5;
+        public static final int sb_horizontal = 0x7f0100e8;
+        public static final int sb_indicatorColor = 0x7f0100e6;
+        public static final int sb_indicatorTextColor = 0x7f0100e7;
     }
     public static final class drawable {
-        public static final int default_scroll_handle_bottom = 0x7f020057;
-        public static final int default_scroll_handle_left = 0x7f020058;
-        public static final int default_scroll_handle_right = 0x7f020059;
-        public static final int default_scroll_handle_top = 0x7f02005a;
+        public static final int default_scroll_handle_bottom = 0x7f02006a;
+        public static final int default_scroll_handle_left = 0x7f02006b;
+        public static final int default_scroll_handle_right = 0x7f02006c;
+        public static final int default_scroll_handle_top = 0x7f02006d;
     }
     public static final class string {
-        public static final int app_name = 0x7f070026;
+        public static final int app_name = 0x7f070037;
     }
     public static final class styleable {
-        public static final int[] ScrollBar = { 0x7f0100e2, 0x7f0100e3, 0x7f0100e4, 0x7f0100e5 };
+        public static final int[] ScrollBar = { 0x7f0100e5, 0x7f0100e6, 0x7f0100e7, 0x7f0100e8 };
         public static final int ScrollBar_sb_handlerColor = 0;
         public static final int ScrollBar_sb_horizontal = 3;
         public static final int ScrollBar_sb_indicatorColor = 1;

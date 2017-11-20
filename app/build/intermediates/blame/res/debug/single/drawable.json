@@ -8,6 +8,18 @@
         "source": "C:\\Users\\fuady\\.android\\build-cache\\f82a61480ea9357136503981e713d826f45a087e\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_ic_facebook_white_22dp.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\05344f90ef4aba8e1db09cc50837f2d82992a1f5\\output\\res\\drawable\\fui_ic_facebook_white_22dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_idp_button_background_phone.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\05344f90ef4aba8e1db09cc50837f2d82992a1f5\\output\\res\\drawable\\fui_idp_button_background_phone.xml"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mapicon.png",
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\drawable\\mapicon.png"
     },
@@ -22,6 +34,10 @@
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "C:\\Users\\fuady\\.android\\build-cache\\f82a61480ea9357136503981e713d826f45a087e\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
@@ -52,12 +68,28 @@
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\drawable\\barcodes.png"
     },
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\teacherpageicon.png",
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\drawable\\teacherpageicon.png"
     },
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plusicon.png",
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\drawable\\plusicon.png"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_ic_mail_white_24dp.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\05344f90ef4aba8e1db09cc50837f2d82992a1f5\\output\\res\\drawable\\fui_ic_mail_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_done_check_mark.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\05344f90ef4aba8e1db09cc50837f2d82992a1f5\\output\\res\\drawable\\fui_done_check_mark.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
@@ -68,8 +100,16 @@
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\drawable\\shedules.png"
     },
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\friends.png",
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\drawable\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_idp_button_background_facebook.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\05344f90ef4aba8e1db09cc50837f2d82992a1f5\\output\\res\\drawable\\fui_idp_button_background_facebook.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
@@ -80,8 +120,20 @@
         "source": "C:\\Users\\fuady\\.android\\build-cache\\51c594a8ff63232e46222dcecb040018e37aaa5e\\output\\res\\drawable\\default_scroll_handle_top.xml"
     },
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\1f4ade882a329f903596567dedf6e19f82f0974a\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\editicon.png",
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\drawable\\editicon.png"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\6adcf9bb95879b5fcc79cdf2c8dde7fe374c573a\\output\\res\\drawable\\tooltip_frame_dark.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
@@ -90,6 +142,10 @@
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\others.png",
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\drawable\\others.png"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
@@ -104,6 +160,10 @@
         "source": "C:\\Users\\fuady\\.android\\build-cache\\f82a61480ea9357136503981e713d826f45a087e\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_ic_googleg_color_24dp.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\05344f90ef4aba8e1db09cc50837f2d82992a1f5\\output\\res\\drawable\\fui_ic_googleg_color_24dp.xml"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\fuady\\.android\\build-cache\\f82a61480ea9357136503981e713d826f45a087e\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
@@ -114,6 +174,10 @@
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "C:\\Users\\fuady\\.android\\build-cache\\f82a61480ea9357136503981e713d826f45a087e\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_idp_button_background_email.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\05344f90ef4aba8e1db09cc50837f2d82992a1f5\\output\\res\\drawable\\fui_idp_button_background_email.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
@@ -136,6 +200,18 @@
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\drawable\\lunchmenuicon.png"
     },
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_ic_twitter_bird_white_24dp.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\05344f90ef4aba8e1db09cc50837f2d82992a1f5\\output\\res\\drawable\\fui_ic_twitter_bird_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\1f4ade882a329f903596567dedf6e19f82f0974a\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shedule.png",
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\drawable\\shedule.png"
     },
@@ -144,12 +220,24 @@
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\drawable\\other.png"
     },
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\fuady\\.android\\build-cache\\f82a61480ea9357136503981e713d826f45a087e\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\fuady\\.android\\build-cache\\f82a61480ea9357136503981e713d826f45a087e\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
@@ -168,6 +256,10 @@
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\drawable\\id_noid.xml"
     },
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\1f4ade882a329f903596567dedf6e19f82f0974a\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_bottom.xml",
         "source": "C:\\Users\\fuady\\.android\\build-cache\\51c594a8ff63232e46222dcecb040018e37aaa5e\\output\\res\\drawable\\default_scroll_handle_bottom.xml"
     },
@@ -180,8 +272,20 @@
         "source": "C:\\Users\\fuady\\.android\\build-cache\\f82a61480ea9357136503981e713d826f45a087e\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_idp_button_background_google.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\05344f90ef4aba8e1db09cc50837f2d82992a1f5\\output\\res\\drawable\\fui_idp_button_background_google.xml"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
         "source": "C:\\Users\\fuady\\.android\\build-cache\\f82a61480ea9357136503981e713d826f45a087e\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\1f4ade882a329f903596567dedf6e19f82f0974a\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_scroll_handle_left.xml",
@@ -190,6 +294,10 @@
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "C:\\Users\\fuady\\.android\\build-cache\\f82a61480ea9357136503981e713d826f45a087e\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\schedules.png",
@@ -224,6 +332,10 @@
         "source": "C:\\Users\\fuady\\.android\\build-cache\\51c594a8ff63232e46222dcecb040018e37aaa5e\\output\\res\\drawable\\default_scroll_handle_right.xml"
     },
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_ic_phone_white_24dp.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\05344f90ef4aba8e1db09cc50837f2d82992a1f5\\output\\res\\drawable\\fui_ic_phone_white_24dp.xml"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\newsicon.png",
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\drawable\\newsicon.png"
     },
@@ -232,8 +344,20 @@
         "source": "C:\\Users\\fuady\\.android\\build-cache\\f82a61480ea9357136503981e713d826f45a087e\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fui_idp_button_background_twitter.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\05344f90ef4aba8e1db09cc50837f2d82992a1f5\\output\\res\\drawable\\fui_idp_button_background_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bulletinicon.png",
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\drawable\\bulletinicon.png"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\1f4ade882a329f903596567dedf6e19f82f0974a\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
@@ -246,5 +370,9 @@
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "C:\\Users\\fuady\\.android\\build-cache\\f82a61480ea9357136503981e713d826f45a087e\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\6adcf9bb95879b5fcc79cdf2c8dde7fe374c573a\\output\\res\\drawable\\tooltip_frame_light.xml"
     }
 ]
