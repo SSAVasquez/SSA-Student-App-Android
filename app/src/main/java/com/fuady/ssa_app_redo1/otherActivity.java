@@ -17,12 +17,15 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.SimpleAdapter;
 import android.widget.Toast;
 
 import com.github.barteksc.pdfviewer.PDFView;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -36,22 +39,53 @@ import java.util.List;
  * Created by fuady on 9/3/2017.
  */
 
-public class otherActivity extends AppCompatActivity{
+public class otherActivity extends AppCompatActivity /*implements View.OnClickListener*/{
     public WebView webView;
     public boolean pdfViewing = false;
+
+    private FirebaseAuth firebaseAuth;
+    private Button Logout;
+
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
         setContentView(R.layout.others);
         setupListView();
+        firebaseAuth = FirebaseAuth.getInstance();
+
+        if(firebaseAuth.getCurrentUser() == null){
+            finish();
+            startActivity(new Intent(this, signInActivity.class));
+        }
+
+        FirebaseUser user = firebaseAuth.getCurrentUser();
+
+
+        Logout = (Button) findViewById(R.id.Logout);
+        //Logout.setOnClickListener(this);
 
     }
+    public void signOut(View view){
+        firebaseAuth.signOut();
+        finish();
+        startActivity(new Intent(this, signInActivity.class));
+    }
+    /*@Override
+    public void onClick(View view) {
+        if(view == Logout){
+            firebaseAuth.signOut();
+            finish();
+            startActivity(new Intent(this, signInActivity.class));
+        }
+    }
+    */
     @Override
     protected void onResume(){
         super.onResume();
         setContentView(R.layout.others);
         setupListView();
     }
+
 
     public void viewFriends(View view){
         Intent myIntent = new Intent(getApplicationContext(), friendActivity.class);

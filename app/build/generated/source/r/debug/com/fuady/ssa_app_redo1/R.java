@@ -2521,6 +2521,10 @@ containing a value of this type.
         public static final int teacherpageicon=0x7f020089;
     }
     public static final class id {
+        public static final int Email=0x7f0d00e4;
+        public static final int Login=0x7f0d00e2;
+        public static final int Logout=0x7f0d00df;
+        public static final int Password=0x7f0d00e3;
         public static final int action0=0x7f0d00c6;
         public static final int action_bar=0x7f0d0061;
         public static final int action_bar_activity_content=0x7f0d0000;
@@ -2552,7 +2556,7 @@ containing a value of this type.
         public static final int basic=0x7f0d0016;
         public static final int beginning=0x7f0d0029;
         public static final int bottom=0x7f0d0039;
-        public static final int browserView=0x7f0d00e1;
+        public static final int browserView=0x7f0d00e5;
         public static final int button=0x7f0d0072;
         public static final int button10=0x7f0d00b8;
         public static final int button11=0x7f0d00b9;
@@ -2656,7 +2660,7 @@ containing a value of this type.
         public static final int middle=0x7f0d002b;
         public static final int moreText=0x7f0d00da;
         public static final int multiply=0x7f0d0023;
-        public static final int myPdf=0x7f0d00df;
+        public static final int myPdf=0x7f0d00e0;
         public static final int never=0x7f0d0031;
         public static final int nextDayButton=0x7f0d0076;
         public static final int none=0x7f0d0018;
@@ -2677,7 +2681,7 @@ containing a value of this type.
         public static final int scan_button=0x7f0d009d;
         public static final int scan_content=0x7f0d009c;
         public static final int scan_format=0x7f0d009b;
-        public static final int scanner=0x7f0d00e0;
+        public static final int scanner=0x7f0d00e1;
         public static final int screen=0x7f0d0024;
         public static final int scrollIndicatorDown=0x7f0d0050;
         public static final int scrollIndicatorUp=0x7f0d004c;
@@ -2741,16 +2745,16 @@ containing a value of this type.
         public static final int wrap=0x7f0d0012;
         public static final int wrap_content=0x7f0d0028;
         public static final int zxing_back_button=0x7f0d0009;
-        public static final int zxing_barcode_scanner=0x7f0d00e5;
-        public static final int zxing_barcode_surface=0x7f0d00e2;
+        public static final int zxing_barcode_scanner=0x7f0d00e9;
+        public static final int zxing_barcode_surface=0x7f0d00e6;
         public static final int zxing_camera_error=0x7f0d000a;
         public static final int zxing_decode=0x7f0d000b;
         public static final int zxing_decode_failed=0x7f0d000c;
         public static final int zxing_decode_succeeded=0x7f0d000d;
         public static final int zxing_possible_result_points=0x7f0d000e;
         public static final int zxing_prewiew_size_ready=0x7f0d000f;
-        public static final int zxing_status_view=0x7f0d00e4;
-        public static final int zxing_viewfinder_view=0x7f0d00e3;
+        public static final int zxing_status_view=0x7f0d00e8;
+        public static final int zxing_viewfinder_view=0x7f0d00e7;
     }
     public static final class integer {
         public static final int abc_config_activityDefaultDur=0x7f090002;

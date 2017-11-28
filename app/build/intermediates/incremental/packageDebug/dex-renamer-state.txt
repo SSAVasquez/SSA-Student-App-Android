@@ -1,4 +1,4 @@
-#Mon Nov 20 13:14:50 EST 2017
+#Tue Nov 28 14:56:05 EST 2017
 base.0=C\:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_160e3ded448d51eee1062624e683cf210bf81ed8
 renamed.1=classes2.dex
 renamed.0=classes.dex

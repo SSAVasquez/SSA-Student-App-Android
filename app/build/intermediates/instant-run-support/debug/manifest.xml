@@ -85,6 +85,9 @@
             android:name="com.fuady.ssa_app_redo1.barcodeActivity"
             android:screenOrientation="portrait" />
         <activity
+            android:name="com.fuady.ssa_app_redo1.signInActivity"
+            android:screenOrientation="portrait" />
+        <activity
             android:name="com.fuady.ssa_app_redo1.editScheduleActivity"
             android:screenOrientation="portrait" />
         <activity

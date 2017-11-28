@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:2:1-73:12
+ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:2:1-75:12
 	package
 		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:3:5-38
 		INJECTED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml
@@ -57,7 +57,7 @@ ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\Androi
 	android:name
 		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:17:22-70
 application
-ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:18:5-71:19
+ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:18:5-73:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\fuady\.android\build-cache\f82a61480ea9357136503981e713d826f45a087e\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\fuady\.android\build-cache\15ef3548b7413dbf0cc6187262388fd6b80a6b2e\output\AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\fuady\.android\build-cache\84c9ef029497fe8993e8b184882f0e6737a82fbd\output\AndroidManifest.xml:26:5-20
@@ -75,10 +75,6 @@ MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\fua
 MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\fuady\.android\build-cache\1389d01a16e2876cf0d157aca6ba55536d217295\output\AndroidManifest.xml:19:5-20:19
 MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\fuady\.android\build-cache\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\output\AndroidManifest.xml:18:5-20:19
 MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\fuady\.android\build-cache\cb14339c0d81788286407501be3ead8025860087\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\fuady\.android\build-cache\ed66f0aacb083428452c43e3b429152f91b9b745\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] C:\Users\fuady\.android\build-cache\2cd07a391871a06ce524ce325538e4d5a4dfb822\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-database-license:11.6.0] C:\Users\fuady\.android\build-cache\729418d302775ed6caec1f49dea1fd6c2dd910c6\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] C:\Users\fuady\.android\build-cache\eb2c323a8eff2f5e2841d07cc5ce90d051375f41\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\fuady\.android\build-cache\12730e5dcc2ea8dac31c710212f36f8e5b75a87a\output\AndroidManifest.xml:4:5-7:19
 MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\fuady\.android\build-cache\7f9b113028d437a15d99f726ed04dfed34c77c69\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\fuady\.android\build-cache\afbb01f5dcac75a2aad004cba66cc22f6d131c7b\output\AndroidManifest.xml:4:5-19
@@ -91,7 +87,7 @@ MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\fuady\.andr
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\fuady\.android\build-cache\5954e9cc3314777286376c6b789d0a728d4ccc8a\output\AndroidManifest.xml:29:5-20
 MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\fuady\.android\build-cache\389ed84ac537d4376ce638fca0191fea6233fad3\output\AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\fuady\.android\build-cache\3c9718dc5005c9464df13e4ef9643378645cecb1\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-storage-license:11.6.0] C:\Users\fuady\.android\build-cache\31737039a38b40d5c37289a7b39cc072cafb5fa4\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\fuady\.android\build-cache\ed66f0aacb083428452c43e3b429152f91b9b745\output\AndroidManifest.xml:5:5-20
 	android:label
 		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:25:9-36
 	android:supportsRtl
@@ -136,48 +132,54 @@ ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\Androi
 		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:54:13-49
 	android:name
 		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:53:19-73
-activity#com.fuady.ssa_app_redo1.editScheduleActivity
+activity#com.fuady.ssa_app_redo1.signInActivity
 ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:55:9-56:51
 	android:screenOrientation
 		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:56:13-49
 	android:name
-		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:55:19-78
-activity#com.fuady.ssa_app_redo1.editDayScheduleActivity
+		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:55:19-72
+activity#com.fuady.ssa_app_redo1.editScheduleActivity
 ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:57:9-58:51
 	android:screenOrientation
 		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:58:13-49
 	android:name
-		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:57:19-81
-activity#com.fuady.ssa_app_redo1.addScheduleActivity
+		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:57:19-78
+activity#com.fuady.ssa_app_redo1.editDayScheduleActivity
 ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:59:9-60:51
 	android:screenOrientation
 		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:60:13-49
 	android:name
-		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:59:19-77
-activity#com.fuady.ssa_app_redo1.friendActivity
+		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:59:19-81
+activity#com.fuady.ssa_app_redo1.addScheduleActivity
 ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:61:9-62:51
 	android:screenOrientation
 		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:62:13-49
 	android:name
-		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:61:19-72
-activity#com.fuady.ssa_app_redo1.shareScheduleActivity
-ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:63:9-65:15
+		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:61:19-77
+activity#com.fuady.ssa_app_redo1.friendActivity
+ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:63:9-64:51
 	android:screenOrientation
 		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:64:13-49
 	android:name
-		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:63:19-79
+		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:63:19-72
+activity#com.fuady.ssa_app_redo1.shareScheduleActivity
+ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:65:9-67:15
+	android:screenOrientation
+		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:66:13-49
+	android:name
+		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:65:19-79
 activity#com.fuady.ssa_app_redo1.otherActivity
-ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:66:9-68:15
+ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:68:9-70:15
 	android:screenOrientation
-		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:67:13-49
+		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:69:13-49
 	android:name
-		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:66:19-71
+		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:68:19-71
 activity#com.fuady.ssa_app_redo1.browserActivity
-ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:69:9-70:51
+ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:71:9-72:51
 	android:screenOrientation
-		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:70:13-49
+		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:72:13-49
 	android:name
-		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:69:19-73
+		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:71:19-73
 uses-sdk
 INJECTED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\fuady\.android\build-cache\f82a61480ea9357136503981e713d826f45a087e\output\AndroidManifest.xml:21:5-23:78
@@ -199,15 +201,6 @@ MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\fua
 MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\fuady\.android\build-cache\1389d01a16e2876cf0d157aca6ba55536d217295\output\AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\fuady\.android\build-cache\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\output\AndroidManifest.xml:17:5-43
 MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\fuady\.android\build-cache\cb14339c0d81788286407501be3ead8025860087\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\fuady\.android\build-cache\ed66f0aacb083428452c43e3b429152f91b9b745\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-firestore:11.6.0] C:\Users\fuady\.android\build-cache\1b7e9fdac15c3577eeff7ad7be49bc3629e95d4f\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database:11.6.0] C:\Users\fuady\.android\build-cache\bb173037beb855e4cdb7bb939bead472ffed240f\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database-connection:11.6.0] C:\Users\fuady\.android\build-cache\0dd3b62e1bec74b2be348fca6cd8365c3ce7a4f8\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] C:\Users\fuady\.android\build-cache\2cd07a391871a06ce524ce325538e4d5a4dfb822\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-database-license:11.6.0] C:\Users\fuady\.android\build-cache\729418d302775ed6caec1f49dea1fd6c2dd910c6\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-storage:11.6.0] C:\Users\fuady\.android\build-cache\1fa55a4f5fffb0ef8884cdbb1c12e0e1d84e4dcc\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-storage-common:11.6.0] C:\Users\fuady\.android\build-cache\abd6d5528754b0101213e588974939a66f27213d\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-storage-common-license:11.6.0] C:\Users\fuady\.android\build-cache\eb2c323a8eff2f5e2841d07cc5ce90d051375f41\output\AndroidManifest.xml:4:5-43
 MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\fuady\.android\build-cache\12730e5dcc2ea8dac31c710212f36f8e5b75a87a\output\AndroidManifest.xml:3:5-43
 MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\fuady\.android\build-cache\7f9b113028d437a15d99f726ed04dfed34c77c69\output\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\fuady\.android\build-cache\afbb01f5dcac75a2aad004cba66cc22f6d131c7b\output\AndroidManifest.xml:3:5-43
@@ -220,7 +213,7 @@ MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\fuady\.andr
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\fuady\.android\build-cache\5954e9cc3314777286376c6b789d0a728d4ccc8a\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\fuady\.android\build-cache\389ed84ac537d4376ce638fca0191fea6233fad3\output\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\fuady\.android\build-cache\3c9718dc5005c9464df13e4ef9643378645cecb1\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-storage-license:11.6.0] C:\Users\fuady\.android\build-cache\31737039a38b40d5c37289a7b39cc072cafb5fa4\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\fuady\.android\build-cache\ed66f0aacb083428452c43e3b429152f91b9b745\output\AndroidManifest.xml:4:5-43
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\fuady\.android\build-cache\f82a61480ea9357136503981e713d826f45a087e\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion

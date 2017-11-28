@@ -78,6 +78,18 @@
         android:id="@+id/linkView"
         android:layout_below="@id/moreText"
         />
+    <Button
+        android:id="@+id/Logout"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:onClick="signOut"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/button17"
+        android:layout_toEndOf="@+id/button17"
+        android:layout_marginLeft="6dp"
+        android:layout_marginStart="6dp" />
 
 </RelativeLayout>
 
