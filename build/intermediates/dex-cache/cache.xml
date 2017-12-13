@@ -3,11 +3,20 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\fuady\.android\build-cache\e054befd5d35b77a08ce2d87b8fb8bd4aaab2db8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="64adc9f1351d7d04b236dca2e7b980a486bdacb5">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33841d3db53f9fe95ee75cfa3f9e160a99686dd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="fd78128d1914574de82c6db044779ff694be7e8e">
+        sha1="d26f357cdddd9a7b9daf339dddc9c8083af74869">
         <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_160e3ded448d51eee1062624e683cf210bf81ed8\classes.dex" />
     </item>
     <item
@@ -20,22 +29,40 @@
         <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\pre-dexed\release\classes_1bdeebe5ce02623b2f7702c65628cf401307b320.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="C:\Users\fuady\.android\build-cache\51c594a8ff63232e46222dcecb040018e37aaa5e\output\jars\classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\fuady\.android\build-cache\e054befd5d35b77a08ce2d87b8fb8bd4aaab2db8\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.0"
-        sha1="fd0730717fcd70ec880c94156a37370aa7ca6d51">
-        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1bdeebe5ce02623b2f7702c65628cf401307b320\classes.dex" />
+        sha1="64adc9f1351d7d04b236dca2e7b980a486bdacb5">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\pre-dexed\debug\classes_33841d3db53f9fe95ee75cfa3f9e160a99686dd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a0b869be21f2e39e9b337bec395d9a7e111da21e">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\pre-dexed\debug\classes_3a47942ff9ca5283461aef37b46048bd7111e644.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\fuady\.android\build-cache\897b430732144e79b9f2ca52893337ae02de1890\output\jars\classes.jar"
+        jar="C:\Users\fuady\.android\build-cache\9d2a38096ee7721885021d66a074500cbd4e9c73\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="97a90b867543905c0717d04f6a60532c9405aa33">
-        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7a84fac7f23a4f4e837450f8736de1124383584\classes.dex" />
+        sha1="0ab379ccbc45dadc6843cf258d9e741075758dd5">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d8a0ae593e54edc6b906afc58d3df049aeafb10c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuady\.android\build-cache\c3e847e70c09a7b088add3e599ad5e356a50bc04\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3810dd933166e9c76b2d192ee18d5699e9701bb4">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5d528c3546fefe644ada2cfc3c1ca73bfd7c5063\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -48,12 +75,129 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\fuady\.android\build-cache\9d2a38096ee7721885021d66a074500cbd4e9c73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0ab379ccbc45dadc6843cf258d9e741075758dd5">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\pre-dexed\debug\classes_d8a0ae593e54edc6b906afc58d3df049aeafb10c.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\fuady\.android\build-cache\897b430732144e79b9f2ca52893337ae02de1890\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="97a90b867543905c0717d04f6a60532c9405aa33">
         <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\pre-dexed\release\classes_d7a84fac7f23a4f4e837450f8736de1124383584.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b0ae7bfe4591746f6491a4a270ee56712062d1ca">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9592545b900614897dd21a1bc9ad82dbdaec6c64\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fuady\.android\build-cache\c402cd0dd3d7ac7ba208fe06d406313184188617\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="108c3cdbdb89a05d388a170bd3549b1e43ad6d54">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\pre-dexed\debug\classes_a25aed748098d96dcce0419709e77bc5e2f780b4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a0b869be21f2e39e9b337bec395d9a7e111da21e">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3a47942ff9ca5283461aef37b46048bd7111e644\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuady\.android\build-cache\c402cd0dd3d7ac7ba208fe06d406313184188617\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="108c3cdbdb89a05d388a170bd3549b1e43ad6d54">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a25aed748098d96dcce0419709e77bc5e2f780b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fuady\.android\build-cache\aee30d7729995fc4e51589992298caf48ff4b2d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="225f093d9a041f8206d812d3055a886a816ac365">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\pre-dexed\debug\classes_d9c5dc2c17a0048ba6c8471aeddb17b7b516f879.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fuady\.android\build-cache\357583e2c8b9c755d42108405eaeb4be7d7201e0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fd6ae8c61bd548b134265ef3c37807d4efcc854c">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\pre-dexed\debug\classes_e8446b344492abb9deca7fb1d1c03f31b83aa8fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fuady\.android\build-cache\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e9dc052d4d36b53c3a1bb2d5bf634fcac5d35037">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\pre-dexed\debug\classes_c57288192b6ef084c8385ac981e64540860dac01.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuady\.android\build-cache\357583e2c8b9c755d42108405eaeb4be7d7201e0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fd6ae8c61bd548b134265ef3c37807d4efcc854c">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8446b344492abb9deca7fb1d1c03f31b83aa8fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fuady\.android\build-cache\3b4ae5edd18213eaaf6babd714d9a2afe12a01c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4d7b1a23cecd2855bdfbd8266650d140e9e6977c">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\pre-dexed\debug\classes_550d954883076d4ca8a37f00a87795959b8352cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fuady\.android\build-cache\c3e847e70c09a7b088add3e599ad5e356a50bc04\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3810dd933166e9c76b2d192ee18d5699e9701bb4">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\pre-dexed\debug\classes_5d528c3546fefe644ada2cfc3c1ca73bfd7c5063.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuady\.android\build-cache\aee30d7729995fc4e51589992298caf48ff4b2d8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="225f093d9a041f8206d812d3055a886a816ac365">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d9c5dc2c17a0048ba6c8471aeddb17b7b516f879\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuady\.android\build-cache\3b4ae5edd18213eaaf6babd714d9a2afe12a01c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4d7b1a23cecd2855bdfbd8266650d140e9e6977c">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_550d954883076d4ca8a37f00a87795959b8352cf\classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -63,6 +207,42 @@
         revision="26.0.0"
         sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
         <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\pre-dexed\release\commons-io-1.3.2_649a0923ca82150302f298604b928976dfd948c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fuady\.android\build-cache\b83f42637ee53841c0dad48df90bbe8b98e0c0b0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="19e55bee106350a20251b6aa7bd30fa5e25c36c8">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\pre-dexed\debug\classes_ddf7d32443ada393fb7f06d60c64c6f80631ab59.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuady\.android\build-cache\b83f42637ee53841c0dad48df90bbe8b98e0c0b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="19e55bee106350a20251b6aa7bd30fa5e25c36c8">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddf7d32443ada393fb7f06d60c64c6f80631ab59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\fuady\.android\build-cache\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e9dc052d4d36b53c3a1bb2d5bf634fcac5d35037">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c57288192b6ef084c8385ac981e64540860dac01\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b0ae7bfe4591746f6491a4a270ee56712062d1ca">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\pre-dexed\debug\classes_9592545b900614897dd21a1bc9ad82dbdaec6c64.jar" />
     </item>
 
 </items>

@@ -17,7 +17,7 @@
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
@@ -40,12 +40,12 @@
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\drawable\\barcodes.png"
     },
     {
-        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\21637f8a1ab9a866821797b2a72251f5edc8b8ca\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
-    },
-    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
         "source": "C:\\Users\\fuady\\.android\\build-cache\\21637f8a1ab9a866821797b2a72251f5edc8b8ca\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\21637f8a1ab9a866821797b2a72251f5edc8b8ca\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_light.xml",
@@ -53,7 +53,7 @@
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
@@ -137,7 +137,7 @@
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
@@ -153,7 +153,7 @@
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
@@ -253,7 +253,7 @@
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
@@ -309,7 +309,7 @@
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
@@ -369,7 +369,7 @@
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\teacherpageicon.png",
@@ -409,7 +409,7 @@
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\friends.png",
@@ -429,7 +429,7 @@
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_dark.xml",
@@ -441,7 +441,7 @@
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
@@ -513,7 +513,7 @@
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
@@ -525,7 +525,7 @@
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shareicon.png",
@@ -549,7 +549,7 @@
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
@@ -573,7 +573,7 @@
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_light.xml",

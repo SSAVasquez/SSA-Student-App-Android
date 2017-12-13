@@ -76,37 +76,30 @@
             android:layout_alignParentStart="true"
             android:layout_marginTop="6dp" />
 
-        <ImageView
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:src= "@drawable/plusicon"
-            android:id="@+id/button14"
-            android:onClick="addFriends"
-            android:layout_gravity="top|right"
-            android:background = "@android:color/transparent"
-            android:layout_alignParentTop="true"
-            android:layout_alignParentRight="true"
-            android:layout_alignParentEnd="true" />
+
     <ImageView
         android:id="@+id/button19"
         android:layout_width="50dp"
         android:layout_height="50dp"
-        android:layout_gravity="bottom|right"
+        android:layout_alignParentTop="true"
+
+        android:layout_alignParentEnd="true"
         android:background="@android:color/transparent"
+        android:layout_gravity="top|right"
         android:onClick="Share"
         android:src="@drawable/shareicon"
-        android:layout_alignParentTop="true"
+
         android:layout_toLeftOf="@+id/button14"
         />
 
     <ListView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="10dp"
+        android:layout_marginBottom="12dp"
         android:id="@+id/listView2"
         android:layout_above="@+id/button10"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:layout_below="@+id/button14" />
+        android:layout_below="@+id/button19" />
 </RelativeLayout>
 

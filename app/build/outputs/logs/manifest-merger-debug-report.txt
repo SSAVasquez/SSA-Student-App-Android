@@ -37,9 +37,9 @@ ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\Androi
 		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:12:22-77
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:13:5-66
-MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\fuady\.android\build-cache\d8c604ba1180736d37ba4f2382c7eb72f4bafd86\output\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\fuady\.android\build-cache\c402cd0dd3d7ac7ba208fe06d406313184188617\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:13:22-64
 uses-feature#android.hardware.camera
@@ -65,29 +65,32 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\fu
 MERGED from [me.dm7.barcodescanner:zxing:1.8.4] C:\Users\fuady\.android\build-cache\6775d4899d82c3bc9239c58162d9853cbb33a037\output\AndroidManifest.xml:11:5-20
 MERGED from [me.dm7.barcodescanner:core:1.8.4] C:\Users\fuady\.android\build-cache\b61e31a5dba92fcab943181e66d0e41f56de4d62\output\AndroidManifest.xml:11:5-20
 MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\fuady\.android\build-cache\e4f43977535b2480ba348e41e91db92992b4185b\output\AndroidManifest.xml:45:5-53:19
-MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\fuady\.android\build-cache\8b198e64617cf98202757fc7438d4d1844e4d0a9\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:24:5-34:19
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\fuady\.android\build-cache\d8c604ba1180736d37ba4f2382c7eb72f4bafd86\output\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:29:5-46:19
-MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\fuady\.android\build-cache\8bd0a084ad4f751a66c2572f9dbdef43774a07bd\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\fuady\.android\build-cache\89d4a413d4ce33f0247609764196af99257c7fe3\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\fuady\.android\build-cache\de8a07d39aa37759f18f2dfd763c2d60191a780e\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\fuady\.android\build-cache\1389d01a16e2876cf0d157aca6ba55536d217295\output\AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\fuady\.android\build-cache\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\output\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\fuady\.android\build-cache\cb14339c0d81788286407501be3ead8025860087\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\fuady\.android\build-cache\12730e5dcc2ea8dac31c710212f36f8e5b75a87a\output\AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\fuady\.android\build-cache\7f9b113028d437a15d99f726ed04dfed34c77c69\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\fuady\.android\build-cache\afbb01f5dcac75a2aad004cba66cc22f6d131c7b\output\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\fuady\.android\build-cache\018b419dac9d6ccadc90872abc4cc9c0195e0503\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\fuady\.android\build-cache\10c588d37d5aeb1f99d425ac24bdb9f7cd11fb7e\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\fuady\.android\build-cache\c402cd0dd3d7ac7ba208fe06d406313184188617\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\fuady\.android\build-cache\bafc3560dea8c751240d55f1a20a05bbbfb3b7d5\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\fuady\.android\build-cache\500c967d0de1b1635b7218bad46efa8be0d21261\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\fuady\.android\build-cache\9392b5fe9c3827641b1490f08c37ac9ad9de456d\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\fuady\.android\build-cache\b83f42637ee53841c0dad48df90bbe8b98e0c0b0\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-common:11.6.2] C:\Users\fuady\.android\build-cache\3b4ae5edd18213eaaf6babd714d9a2afe12a01c3\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] C:\Users\fuady\.android\build-cache\1be28ed3402d26e2237fdac5cd2e14bf9af973c3\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] C:\Users\fuady\.android\build-cache\774ff74d4b2459b6fb9cf922ebed5adf217c59fd\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\fuady\.android\build-cache\c3e847e70c09a7b088add3e599ad5e356a50bc04\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2] C:\Users\fuady\.android\build-cache\1329bd86c748154ea8ce5ffadc4396718841c8da\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] C:\Users\fuady\.android\build-cache\266fbee2905755704b44dad0c90ad1b9c30399d6\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\fuady\.android\build-cache\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\fuady\.android\build-cache\b11182d77b4a1644ab2e87cf690513c4e33922b1\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\fuady\.android\build-cache\aee30d7729995fc4e51589992298caf48ff4b2d8\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\fuady\.android\build-cache\357583e2c8b9c755d42108405eaeb4be7d7201e0\output\AndroidManifest.xml:19:5-21:19
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\fuady\.android\build-cache\85cd7c478aa8b8b88c50aadcf4c2428340ec765b\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\fuady\.android\build-cache\86189e07d295811b7b6a6438d16a545ff205f135\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\fuady\.android\build-cache\b6c9c50f0366b90afa57634a05eeaa52409a871d\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\fuady\.android\build-cache\ec47edd738dbbec9acb66ad2ac7dc76507bc24c5\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\fuady\.android\build-cache\706c5e22b6702f39119db300148ec60e4fcd6b25\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\fuady\.android\build-cache\5954e9cc3314777286376c6b789d0a728d4ccc8a\output\AndroidManifest.xml:29:5-20
-MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\fuady\.android\build-cache\389ed84ac537d4376ce638fca0191fea6233fad3\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\fuady\.android\build-cache\3c9718dc5005c9464df13e4ef9643378645cecb1\output\AndroidManifest.xml:5:5-20
-MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\fuady\.android\build-cache\ed66f0aacb083428452c43e3b429152f91b9b745\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\fuady\.android\build-cache\315cb81a9f4501687210d08f89ccee1abf71554b\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\fuady\.android\build-cache\05efca02cc81e503fe951b44f709d2d5837868a1\output\AndroidManifest.xml:5:5-20
 	android:label
 		ADDED from C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\src\main\AndroidManifest.xml:25:9-36
 	android:supportsRtl
@@ -191,29 +194,34 @@ MERGED from [me.dm7.barcodescanner:core:1.8.4] C:\Users\fuady\.android\build-cac
 MERGED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\fuady\.android\build-cache\e4f43977535b2480ba348e41e91db92992b4185b\output\AndroidManifest.xml:19:5-43
 MERGED from [com.github.barteksc:android-pdf-viewer:2.3.0] C:\Users\fuady\.android\build-cache\51c594a8ff63232e46222dcecb040018e37aaa5e\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.github.barteksc:pdfium-android:1.5.0] C:\Users\fuady\.android\build-cache\897b430732144e79b9f2ca52893337ae02de1890\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.firebase:firebase-core:11.6.0] C:\Users\fuady\.android\build-cache\8b198e64617cf98202757fc7438d4d1844e4d0a9\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\fuady\.android\build-cache\d8c604ba1180736d37ba4f2382c7eb72f4bafd86\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.firebase:firebase-iid-license:11.6.0] C:\Users\fuady\.android\build-cache\8bd0a084ad4f751a66c2572f9dbdef43774a07bd\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] C:\Users\fuady\.android\build-cache\89d4a413d4ce33f0247609764196af99257c7fe3\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] C:\Users\fuady\.android\build-cache\de8a07d39aa37759f18f2dfd763c2d60191a780e\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-auth:11.6.0] C:\Users\fuady\.android\build-cache\1389d01a16e2876cf0d157aca6ba55536d217295\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\fuady\.android\build-cache\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\output\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-base-license:11.6.0] C:\Users\fuady\.android\build-cache\cb14339c0d81788286407501be3ead8025860087\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-common:11.6.0] C:\Users\fuady\.android\build-cache\12730e5dcc2ea8dac31c710212f36f8e5b75a87a\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.firebase:firebase-common-license:11.6.0] C:\Users\fuady\.android\build-cache\7f9b113028d437a15d99f726ed04dfed34c77c69\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:11.6.0] C:\Users\fuady\.android\build-cache\afbb01f5dcac75a2aad004cba66cc22f6d131c7b\output\AndroidManifest.xml:3:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\fuady\.android\build-cache\018b419dac9d6ccadc90872abc4cc9c0195e0503\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.2] C:\Users\fuady\.android\build-cache\10c588d37d5aeb1f99d425ac24bdb9f7cd11fb7e\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\fuady\.android\build-cache\c402cd0dd3d7ac7ba208fe06d406313184188617\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.2] C:\Users\fuady\.android\build-cache\bafc3560dea8c751240d55f1a20a05bbbfb3b7d5\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.2] C:\Users\fuady\.android\build-cache\500c967d0de1b1635b7218bad46efa8be0d21261\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.2] C:\Users\fuady\.android\build-cache\9392b5fe9c3827641b1490f08c37ac9ad9de456d\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.2] C:\Users\fuady\.android\build-cache\b83f42637ee53841c0dad48df90bbe8b98e0c0b0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.2] C:\Users\fuady\.android\build-cache\3b4ae5edd18213eaaf6babd714d9a2afe12a01c3\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.2] C:\Users\fuady\.android\build-cache\1be28ed3402d26e2237fdac5cd2e14bf9af973c3\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.2] C:\Users\fuady\.android\build-cache\774ff74d4b2459b6fb9cf922ebed5adf217c59fd\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\fuady\.android\build-cache\c3e847e70c09a7b088add3e599ad5e356a50bc04\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.2] C:\Users\fuady\.android\build-cache\e054befd5d35b77a08ce2d87b8fb8bd4aaab2db8\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.2] C:\Users\fuady\.android\build-cache\1329bd86c748154ea8ce5ffadc4396718841c8da\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.2] C:\Users\fuady\.android\build-cache\9d2a38096ee7721885021d66a074500cbd4e9c73\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.2] C:\Users\fuady\.android\build-cache\266fbee2905755704b44dad0c90ad1b9c30399d6\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\fuady\.android\build-cache\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\fuady\.android\build-cache\b11182d77b4a1644ab2e87cf690513c4e33922b1\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\fuady\.android\build-cache\aee30d7729995fc4e51589992298caf48ff4b2d8\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\fuady\.android\build-cache\357583e2c8b9c755d42108405eaeb4be7d7201e0\output\AndroidManifest.xml:17:5-43
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\fuady\.android\build-cache\85cd7c478aa8b8b88c50aadcf4c2428340ec765b\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\fuady\.android\build-cache\86189e07d295811b7b6a6438d16a545ff205f135\output\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\fuady\.android\build-cache\b6c9c50f0366b90afa57634a05eeaa52409a871d\output\AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\fuady\.android\build-cache\ec47edd738dbbec9acb66ad2ac7dc76507bc24c5\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\fuady\.android\build-cache\706c5e22b6702f39119db300148ec60e4fcd6b25\output\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\fuady\.android\build-cache\5954e9cc3314777286376c6b789d0a728d4ccc8a\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] C:\Users\fuady\.android\build-cache\389ed84ac537d4376ce638fca0191fea6233fad3\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] C:\Users\fuady\.android\build-cache\3c9718dc5005c9464df13e4ef9643378645cecb1\output\AndroidManifest.xml:4:5-43
-MERGED from [com.google.firebase:firebase-auth-license:11.6.0] C:\Users\fuady\.android\build-cache\ed66f0aacb083428452c43e3b429152f91b9b745\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\fuady\.android\build-cache\315cb81a9f4501687210d08f89ccee1abf71554b\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\fuady\.android\build-cache\05efca02cc81e503fe951b44f709d2d5837868a1\output\AndroidManifest.xml:4:5-43
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\fuady\.android\build-cache\f82a61480ea9357136503981e713d826f45a087e\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
@@ -279,128 +287,146 @@ ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\fuady\.androi
 	android:name
 		ADDED from [com.journeyapps:zxing-android-embedded:3.2.0] C:\Users\fuady\.android\build-cache\e4f43977535b2480ba348e41e91db92992b4185b\output\AndroidManifest.xml:47:13-74
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\fuady\.android\build-cache\d8c604ba1180736d37ba4f2382c7eb72f4bafd86\output\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:19:5-78
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\fuady\.android\build-cache\c402cd0dd3d7ac7ba208fe06d406313184188617\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:21:22-76
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:21:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\fuady\.android\build-cache\d8c604ba1180736d37ba4f2382c7eb72f4bafd86\output\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:21:5-67
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\fuady\.android\build-cache\c402cd0dd3d7ac7ba208fe06d406313184188617\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:22:22-65
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:22:22-65
 receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\fuady\.android\build-cache\d8c604ba1180736d37ba4f2382c7eb72f4bafd86\output\AndroidManifest.xml:25:7-26:18
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\fuady\.android\build-cache\c402cd0dd3d7ac7ba208fe06d406313184188617\output\AndroidManifest.xml:25:7-26:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:25:90-112
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:25:90-112
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:25:113-137
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:25:113-137
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:25:17-89
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:25:17-89
 receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:27:7-31:18
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:27:7-31:18
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:27:162-184
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:27:162-184
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:27:185-208
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:27:185-208
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:27:105-161
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:27:105-161
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:27:17-104
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:27:17-104
 intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:28:11-30:27
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:28:11-30:27
 action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:29:15-76
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:29:15-76
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:29:23-74
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:29:23-74
 service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] C:\Users\fuady\.android\build-cache\d8c604ba1180736d37ba4f2382c7eb72f4bafd86\output\AndroidManifest.xml:27:7-137
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.2] C:\Users\fuady\.android\build-cache\c402cd0dd3d7ac7ba208fe06d406313184188617\output\AndroidManifest.xml:27:7-137
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:32:88-110
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:32:88-110
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:32:111-135
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:32:111-135
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:32:16-87
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:32:16-87
 service#com.google.android.gms.measurement.AppMeasurementJobService
-ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:33:7-197
+ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:33:7-197
 	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:33:148-170
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:33:148-170
 	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:33:171-195
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:33:171-195
 	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:33:91-147
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:33:91-147
 	android:name
-		ADDED from [com.google.firebase:firebase-analytics:11.6.0] C:\Users\fuady\.android\build-cache\be4664e6882c4b5ca0872e34674f16b819d96001\output\AndroidManifest.xml:33:16-90
+		ADDED from [com.google.firebase:firebase-analytics:11.6.2] C:\Users\fuady\.android\build-cache\bf518202708df3e2f805463eb762295fbb10c4e0\output\AndroidManifest.xml:33:16-90
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:23:5-81
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:23:5-81
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:23:22-79
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:23:22-79
 permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:25:5-109
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:25:5-109
 	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:25:72-107
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:25:72-107
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:25:17-71
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:25:17-71
 uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:27:5-78
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:27:5-78
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:27:22-76
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:27:22-76
 receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:31:9-36:20
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:31:9-36:20
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:31:85-108
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:31:85-108
 	android:permission
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:31:109-169
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:31:109-169
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:31:19-84
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:31:19-84
 intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:32:13-35:29
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:32:13-35:29
 action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:33:17-80
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:33:17-80
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:33:25-78
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:33:25-78
 category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:34:17-60
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:34:17-60
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:34:27-58
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:34:27-58
 service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:40:9-44:19
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:40:9-44:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:40:83-106
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:40:83-106
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:40:18-82
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:40:18-82
 intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:41:13-43:29
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:41:13-43:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:41:28-51
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:41:28-51
 action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:42:17-79
+ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:42:17-79
 	android:name
-		ADDED from [com.google.firebase:firebase-iid:11.6.0] C:\Users\fuady\.android\build-cache\66964d227da1fae4b9a7d0b17f9bbc9f76770ef9\output\AndroidManifest.xml:42:25-77
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\fuady\.android\build-cache\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\output\AndroidManifest.xml:19:9-172
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\fuady\.android\build-cache\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\output\AndroidManifest.xml:19:146-170
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\fuady\.android\build-cache\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\output\AndroidManifest.xml:19:86-145
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:11.6.0] C:\Users\fuady\.android\build-cache\4eb2101c69ab3e4c7cd01abbb817cee676e78be6\output\AndroidManifest.xml:19:19-85
+		ADDED from [com.google.firebase:firebase-iid:11.6.2] C:\Users\fuady\.android\build-cache\fd08258859cbb3530cb7ff16117c6c2edd61d87d\output\AndroidManifest.xml:42:25-77
 provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\fuady\.android\build-cache\12730e5dcc2ea8dac31c710212f36f8e5b75a87a\output\AndroidManifest.xml:6:9-194
+ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\fuady\.android\build-cache\3b4ae5edd18213eaaf6babd714d9a2afe12a01c3\output\AndroidManifest.xml:6:9-194
 	android:authorities
-		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\fuady\.android\build-cache\12730e5dcc2ea8dac31c710212f36f8e5b75a87a\output\AndroidManifest.xml:6:19-78
+		ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\fuady\.android\build-cache\3b4ae5edd18213eaaf6babd714d9a2afe12a01c3\output\AndroidManifest.xml:6:19-78
 	android:exported
-		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\fuady\.android\build-cache\12730e5dcc2ea8dac31c710212f36f8e5b75a87a\output\AndroidManifest.xml:6:144-168
+		ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\fuady\.android\build-cache\3b4ae5edd18213eaaf6babd714d9a2afe12a01c3\output\AndroidManifest.xml:6:144-168
 	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\fuady\.android\build-cache\12730e5dcc2ea8dac31c710212f36f8e5b75a87a\output\AndroidManifest.xml:6:169-192
+		ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\fuady\.android\build-cache\3b4ae5edd18213eaaf6babd714d9a2afe12a01c3\output\AndroidManifest.xml:6:169-192
 	android:name
-		ADDED from [com.google.firebase:firebase-common:11.6.0] C:\Users\fuady\.android\build-cache\12730e5dcc2ea8dac31c710212f36f8e5b75a87a\output\AndroidManifest.xml:6:79-143
+		ADDED from [com.google.firebase:firebase-common:11.6.2] C:\Users\fuady\.android\build-cache\3b4ae5edd18213eaaf6babd714d9a2afe12a01c3\output\AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\fuady\.android\build-cache\c3e847e70c09a7b088add3e599ad5e356a50bc04\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\fuady\.android\build-cache\c3e847e70c09a7b088add3e599ad5e356a50bc04\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\fuady\.android\build-cache\c3e847e70c09a7b088add3e599ad5e356a50bc04\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\fuady\.android\build-cache\c3e847e70c09a7b088add3e599ad5e356a50bc04\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\fuady\.android\build-cache\c3e847e70c09a7b088add3e599ad5e356a50bc04\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\fuady\.android\build-cache\c3e847e70c09a7b088add3e599ad5e356a50bc04\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\fuady\.android\build-cache\c3e847e70c09a7b088add3e599ad5e356a50bc04\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\fuady\.android\build-cache\c3e847e70c09a7b088add3e599ad5e356a50bc04\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.2] C:\Users\fuady\.android\build-cache\c3e847e70c09a7b088add3e599ad5e356a50bc04\output\AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\fuady\.android\build-cache\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\fuady\.android\build-cache\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\fuady\.android\build-cache\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\fuady\.android\build-cache\73d536ddca2689173f0622e0eee2f9d4f7bfbc4f\output\AndroidManifest.xml:19:19-85
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\fuady\.android\build-cache\018b419dac9d6ccadc90872abc4cc9c0195e0503\output\AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\fuady\.android\build-cache\357583e2c8b9c755d42108405eaeb4be7d7201e0\output\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\fuady\.android\build-cache\018b419dac9d6ccadc90872abc4cc9c0195e0503\output\AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\fuady\.android\build-cache\357583e2c8b9c755d42108405eaeb4be7d7201e0\output\AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:11.6.0] C:\Users\fuady\.android\build-cache\018b419dac9d6ccadc90872abc4cc9c0195e0503\output\AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\fuady\.android\build-cache\357583e2c8b9c755d42108405eaeb4be7d7201e0\output\AndroidManifest.xml:20:20-65

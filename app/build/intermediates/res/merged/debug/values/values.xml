@@ -464,7 +464,7 @@
     <integer name="abc_config_activityDefaultDur">220</integer>
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="cancel_button_image_alpha">127</integer>
-    <integer name="google_play_services_version">11717000</integer>
+    <integer name="google_play_services_version">11720000</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <integer name="viewfinder_border_length">60</integer>
     <integer name="viewfinder_border_width">4</integer>

@@ -124,6 +124,51 @@ public class friendActivity extends AppCompatActivity /*implements ZXingScannerV
 
 
     }
+    public void scanCode(View view){
+        IntentIntegrator integrator = new IntentIntegrator(this);
+        integrator.setDesiredBarcodeFormats(IntentIntegrator.QR_CODE_TYPES);
+        integrator.setPrompt("Scan QR Code");
+        //integrator.setResultDisplayDuration(0);
+        //  integrator.setWide();  // Wide scanning rectangle, may work better for 1D barcodes
+        integrator.setCameraId(0);  // Use a specific camera of the device
+        integrator.initiateScan();
+    }
+    public void enterFriendCode(View view){
+        EditText editText = (EditText)findViewById(R.id.codeEditText);
+        if( editText.getText().toString() != null) {
+
+            addedFriend = editText.getText().toString();
+            myFriends.add(addedFriend);
+           /* try {
+                OutputStreamWriter writerTwo = new OutputStreamWriter(getApplicationContext().openFileOutput(
+                        "friendFile", Context.MODE_PRIVATE));
+
+                writerTwo.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }*/
+
+            try {
+                OutputStreamWriter writerTwo = new OutputStreamWriter(getApplicationContext().openFileOutput(
+                        "friendFile", Context.MODE_PRIVATE));
+                for (int i = 0; i < myFriends.size(); i++) {
+                    writerTwo.write(myFriends.get(i) + '\n');
+                    System.out.println(myFriends.get(i) + '\n');
+                }
+                writerTwo.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+
+        }
+
+    }
+    public void enterName(View view){
+
+    }
+    public void copyCode(View view){
+
+    }
 
     public void addFriends(View view) {
         IntentIntegrator integrator = new IntentIntegrator(this);

@@ -51,7 +51,7 @@ public class otherActivity extends AppCompatActivity /*implements View.OnClickLi
         super.onCreate(savedInstanceState);
         setContentView(R.layout.others);
         setupListView();
-        firebaseAuth = FirebaseAuth.getInstance();
+        /*firebaseAuth = FirebaseAuth.getInstance();
 
         if(firebaseAuth.getCurrentUser() == null){
             finish();
@@ -62,7 +62,7 @@ public class otherActivity extends AppCompatActivity /*implements View.OnClickLi
 
 
         Logout = (Button) findViewById(R.id.Logout);
-        //Logout.setOnClickListener(this);
+        //Logout.setOnClickListener(this);*/
 
     }
     public void signOut(View view){
@@ -70,6 +70,7 @@ public class otherActivity extends AppCompatActivity /*implements View.OnClickLi
         finish();
         startActivity(new Intent(this, signInActivity.class));
     }
+
     /*@Override
     public void onClick(View view) {
         if(view == Logout){
