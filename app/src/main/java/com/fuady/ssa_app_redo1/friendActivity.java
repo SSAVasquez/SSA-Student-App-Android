@@ -247,10 +247,10 @@ public class friendActivity extends AppCompatActivity /*implements ZXingScannerV
         // Set The Adapter
         listDays.setAdapter(arrayAdapter);
 // register onClickListener to handle click events on each item
-        listDays.setOnItemClickListener(new AdapterView.OnItemClickListener()
+        listDays.setOnItemLongClickListener(new AdapterView.OnItemLongClickListener()
         {
             // argument position gives the index of item which is clicked
-            public void onItemClick(AdapterView<?> arg0, View v, final int position, long arg3)
+            public boolean onItemLongClick(AdapterView<?> arg0, View v, final int position, long arg3)
             {
 
                /* AlertDialog.Builder builder = new AlertDialog.Builder(friendActivity.this);
@@ -295,7 +295,7 @@ public class friendActivity extends AppCompatActivity /*implements ZXingScannerV
 
                 AlertDialog alert11 = builder1.create();
                 alert11.show();
-
+                return true;
             }
         });
 

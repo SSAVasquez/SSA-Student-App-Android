@@ -38,7 +38,33 @@ import java.util.List;
 /**
  * Created by fuady on 9/3/2017.
  */
-
+/* put this back in small other tab layout file
+<Button
+        android:id="@+id/Logout"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:onClick="signOut"
+        android:layout_alignBaseline="@+id/moreText"
+        android:layout_alignBottom="@+id/moreText"
+        android:layout_toRightOf="@+id/button17"
+        android:layout_toEndOf="@+id/button17" />
+ */
+/* put this back in large other tab layout file
+<Button
+        android:id="@+id/Logout"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Logout"
+        android:onClick="signOut"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/button17"
+        android:layout_toEndOf="@+id/button17"
+        android:layout_marginLeft="6dp"
+        android:layout_marginStart="6dp" />
+ */
 public class otherActivity extends AppCompatActivity /*implements View.OnClickListener*/{
     public WebView webView;
     public boolean pdfViewing = false;

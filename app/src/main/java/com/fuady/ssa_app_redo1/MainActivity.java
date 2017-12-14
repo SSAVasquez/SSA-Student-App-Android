@@ -35,7 +35,10 @@ import java.util.Calendar;
 import java.util.Date;
 
 import static java.util.Calendar.TUESDAY;
-
+/* Notes
+    appbg3 should be used on larger devices
+    appbg4 should be used on smaller devices
+ */
 public class MainActivity extends AppCompatActivity /*implements View.OnClickListener */{
 
     public boolean isTuesday = false;
