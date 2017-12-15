@@ -8,6 +8,10 @@
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\mipmap-xxxhdpi\\appbg2.png"
     },
     {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\holiday.png",
+        "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\mipmap-xxxhdpi\\holiday.png"
+    },
+    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
@@ -26,6 +30,10 @@
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\appicon.png",
         "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\mipmap-xxxhdpi\\appicon.png"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\holidaysmall.png",
+        "source": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\src\\main\\res\\mipmap-xxxhdpi\\holidaysmall.png"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\appbg.png",

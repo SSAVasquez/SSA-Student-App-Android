@@ -19,7 +19,7 @@
         android:id="@+id/button"
         android:background = "@android:color/transparent"
         android:layout_gravity="left|bottom"
-        android:src="@drawable/shedules"
+        android:src="@drawable/scheduleh"
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true" />
