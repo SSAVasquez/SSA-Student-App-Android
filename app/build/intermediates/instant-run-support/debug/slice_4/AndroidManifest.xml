@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
       package="com.fuady.ssa_app_redo1"
-      android:versionCode="20"
-      android:versionName="12.1"
+      android:versionCode="21"
+      android:versionName="12.5"
       split="lib_slice_4_apk">
 </manifest>

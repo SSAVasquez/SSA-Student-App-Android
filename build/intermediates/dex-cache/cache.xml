@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="01428c2b8a07c08c789f5041c8bee9c1a037baa4">
+        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_160e3ded448d51eee1062624e683cf210bf81ed8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\fuady\.android\build-cache\e054befd5d35b77a08ce2d87b8fb8bd4aaab2db8\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
         sha1="64adc9f1351d7d04b236dca2e7b980a486bdacb5">
         <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_33841d3db53f9fe95ee75cfa3f9e160a99686dd1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="d26f357cdddd9a7b9daf339dddc9c8083af74869">
-        <dex dex="C:\Users\fuady\AndroidStudioProjects\SSA_APP_REDO\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_160e3ded448d51eee1062624e683cf210bf81ed8\classes.dex" />
     </item>
     <item
         is-multidex="false"

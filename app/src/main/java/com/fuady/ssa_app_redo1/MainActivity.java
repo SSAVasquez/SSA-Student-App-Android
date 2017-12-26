@@ -399,6 +399,7 @@ public class MainActivity extends AppCompatActivity /*implements View.OnClickLis
 
     }*/
     public void findToday(){
+        System.out.println("Finding today");
         SimpleDateFormat dt = new SimpleDateFormat("MM-dd-yyyy");
         Date now = new Date();
         String compDate = dt.format(now);
@@ -420,15 +421,27 @@ public class MainActivity extends AppCompatActivity /*implements View.OnClickLis
             }
         }
         if(dateFound == false){
+            System.out.println("could not find date");
             for(int i = 0; i<fullSchedule.length;i++){
-                if ((Integer.parseInt(compDate.substring(0,2)) == fullSchedule[i][1]) && (Integer.parseInt(compDate.substring(3,5)) < fullSchedule[i][2])){
-                    dayCounter = fullSchedule[i][5];
-                    publicDate = Integer.toString(fullSchedule[i][1]) + "/"+Integer.toString(fullSchedule[i][2]) + "/"+Integer.toString(fullSchedule[i][3]) ;
-                    dateFound = true;
-                    fsIndex = i;
-                    break;
+               // System.out.println("compdate = " + compDate);
+                if(Integer.parseInt(compDate.substring(6)) == fullSchedule[i][3]){
+                    if(Integer.parseInt(compDate.substring(0,2)) == fullSchedule[i][1]){
+                        if(Integer.parseInt(compDate.substring(3,5)) < fullSchedule[i][2]){
+                            dayCounter = fullSchedule[i][5];
+                            publicDate = Integer.toString(fullSchedule[i][1]) + "/"+Integer.toString(fullSchedule[i][2]) + "/"+Integer.toString(fullSchedule[i][3]) ;
+                            dateFound = true;
+                            fsIndex = i;
+                            break;
+                        }
+                    }
+                }else if(Integer.parseInt(compDate.substring(6))+1 == fullSchedule[i][3]){
+                            dayCounter = fullSchedule[i][5];
+                            publicDate = Integer.toString(fullSchedule[i][1]) + "/"+Integer.toString(fullSchedule[i][2]) + "/"+Integer.toString(fullSchedule[i][3]) ;
+                            dateFound = true;
+                            fsIndex = i;
+                            break;
                 }
-                if ((Integer.parseInt(compDate.substring(0,2)) < fullSchedule[i][1]) /*&& (Integer.parseInt(compDate.substring(3,5)) <= fullSchedule[i][2])*/){
+                /*if ((Integer.parseInt(compDate.substring(0,2)) == fullSchedule[i][1]) && (Integer.parseInt(compDate.substring(3,5)) < fullSchedule[i][2])){
                     dayCounter = fullSchedule[i][5];
                     publicDate = Integer.toString(fullSchedule[i][1]) + "/"+Integer.toString(fullSchedule[i][2]) + "/"+Integer.toString(fullSchedule[i][3]) ;
                     dateFound = true;
@@ -436,7 +449,19 @@ public class MainActivity extends AppCompatActivity /*implements View.OnClickLis
                     break;
                 }
 
+                if ((Integer.parseInt(compDate.substring(0,2)) < fullSchedule[i][1]) ){
+                    dayCounter = fullSchedule[i][5];
+                    publicDate = Integer.toString(fullSchedule[i][1]) + "/"+Integer.toString(fullSchedule[i][2]) + "/"+Integer.toString(fullSchedule[i][3]) ;
+                    dateFound = true;
+                    fsIndex = i;
+                    break;
+                }
+                else{
+                    System.out.println("error setting date 2");
+                }*/
+
             }
+
         }
     }
     public void todayButtonFunction(View view){
@@ -461,15 +486,27 @@ public class MainActivity extends AppCompatActivity /*implements View.OnClickLis
             }
         }
         if(dateFound == false){
+            System.out.println("could not find date");
             for(int i = 0; i<fullSchedule.length;i++){
-                if ((Integer.parseInt(compDate.substring(0,2)) == fullSchedule[i][1]) && (Integer.parseInt(compDate.substring(3,5)) < fullSchedule[i][2])){
+                // System.out.println("compdate = " + compDate);
+                if(Integer.parseInt(compDate.substring(6)) == fullSchedule[i][3]){
+                    if(Integer.parseInt(compDate.substring(0,2)) == fullSchedule[i][1]){
+                        if(Integer.parseInt(compDate.substring(3,5)) < fullSchedule[i][2]){
+                            dayCounter = fullSchedule[i][5];
+                            publicDate = Integer.toString(fullSchedule[i][1]) + "/"+Integer.toString(fullSchedule[i][2]) + "/"+Integer.toString(fullSchedule[i][3]) ;
+                            dateFound = true;
+                            fsIndex = i;
+                            break;
+                        }
+                    }
+                }else if(Integer.parseInt(compDate.substring(6))+1 == fullSchedule[i][3]){
                     dayCounter = fullSchedule[i][5];
                     publicDate = Integer.toString(fullSchedule[i][1]) + "/"+Integer.toString(fullSchedule[i][2]) + "/"+Integer.toString(fullSchedule[i][3]) ;
                     dateFound = true;
                     fsIndex = i;
                     break;
                 }
-                if ((Integer.parseInt(compDate.substring(0,2)) < fullSchedule[i][1]) /*&& (Integer.parseInt(compDate.substring(3,5)) <= fullSchedule[i][2])*/){
+                /*if ((Integer.parseInt(compDate.substring(0,2)) == fullSchedule[i][1]) && (Integer.parseInt(compDate.substring(3,5)) < fullSchedule[i][2])){
                     dayCounter = fullSchedule[i][5];
                     publicDate = Integer.toString(fullSchedule[i][1]) + "/"+Integer.toString(fullSchedule[i][2]) + "/"+Integer.toString(fullSchedule[i][3]) ;
                     dateFound = true;
@@ -477,7 +514,19 @@ public class MainActivity extends AppCompatActivity /*implements View.OnClickLis
                     break;
                 }
 
+                if ((Integer.parseInt(compDate.substring(0,2)) < fullSchedule[i][1]) ){
+                    dayCounter = fullSchedule[i][5];
+                    publicDate = Integer.toString(fullSchedule[i][1]) + "/"+Integer.toString(fullSchedule[i][2]) + "/"+Integer.toString(fullSchedule[i][3]) ;
+                    dateFound = true;
+                    fsIndex = i;
+                    break;
+                }
+                else{
+                    System.out.println("error setting date 2");
+                }*/
+
             }
+
         }
         TextView tv = (TextView) findViewById(R.id.textView);
         publicDate = Integer.toString(fullSchedule[fsIndex][1]) + "/"+Integer.toString(fullSchedule[fsIndex][2]) + "/"+Integer.toString(fullSchedule[fsIndex][3]);
