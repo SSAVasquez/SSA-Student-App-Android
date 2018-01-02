@@ -22,6 +22,7 @@ import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.SeekBar;
+import android.widget.SimpleAdapter;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -33,6 +34,8 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.HashMap;
+import java.util.List;
 
 import static java.util.Calendar.TUESDAY;
 /* Notes
@@ -608,7 +611,7 @@ public class MainActivity extends AppCompatActivity /*implements View.OnClickLis
     public void setupListView() {
 
         final String[] scheduleNames = {"day0Schedule", "day1Schedule", "day2Schedule", "day3Schedule", "day4Schedule", "day5Schedule", "day6Schedule", "day7Schedule", "day8Schedule"};
-        String[] notTuesdayTimes = {"Period 1: 8:15-9:05  ", "Period 2: 9:10-10:00 ", "Period 3: 10:35-11:45", "Period 4a: 11:50-12:20", "Period 4b: 12:25-12:40", "Period 4c: 12:45-1:15 ", "Period 5: 1:20-2:10  ", "Period 6: 2:15-3:00  "};
+        String[] notTuesdayTimes = {"Period 1: 8:15-9:05  ", "Period 2: 9:10-10:00 ", "Assembly: 10:05-10:30" , "Period 3: 10:35-11:45", "Period 4a: 11:50-12:20", "Period 4b: 12:25-12:40", "Period 4c: 12:45-1:15 ", "Period 5: 1:20-2:10  ", "Period 6: 2:15-3:00  "};
         String[] tuesdayTimes = {"Period 1: 8:50-9:40", "Period 2: 9:45-10:35", "Period 3: 10:40-11:50", "Period 4a: 11:55-12:25", "Period 4b: 12:30-12:45", "Period 4c: 12:50-1:20", "Period 5: 1:25-2:15", "Period 6: 2:15-3:05"};
         String[] dayZeroTimes = {"Day 1: 8:15-8:50", "Day 2: 8:55-9:30", "Day 3: 9:35-10:10", "Day 4: 10:15-10:50", "Day 5: 11:35-12:10", "Day 6: 12:15-12:50", "Day 7: 12:55-1:30", "Day 8: 1:35-2:10"};
         final ArrayList<String> courseNames = new ArrayList<>();
@@ -626,12 +629,12 @@ public class MainActivity extends AppCompatActivity /*implements View.OnClickLis
                 editNames.add(line);
                 if (!isTuesday) {
                     if (lineCounter == 2) {
-                        courseNames.add("10:05-10:30" + "                     " + "Assembly");
+                        courseNames.add("");
                     }
-                    courseNames.add(notTuesdayTimes[lineCounter] + "     " + line);
+                    courseNames.add(/*notTuesdayTimes[lineCounter] + "     " +*/ line);
                     lineCounter++;
                 } else {
-                    courseNames.add(tuesdayTimes[lineCounter] + "     " + line);
+                    courseNames.add(/*tuesdayTimes[lineCounter] + "     " + */line);
                     lineCounter++;
                 }
 
@@ -751,7 +754,7 @@ public class MainActivity extends AppCompatActivity /*implements View.OnClickLis
         for (int x = 0; x < courseNames.size(); x++) {
             courseNamesArray[x] = courseNames.get(x);
         }
-        for (int x = 0; x < courseNames.size(); x++) {
+       /* for (int x = 0; x < courseNames.size(); x++) {
             if ((dayCounter != 0) && (courseNames.get(x).contains("Free") || courseNames.get(x).contains("Lunch"))) {
                 courseNamesArray[x]+='\n';
                 //courseNamesArray[x]+="                                        ";
@@ -760,21 +763,21 @@ public class MainActivity extends AppCompatActivity /*implements View.OnClickLis
                     String[] myFriendsInfo = myFriends.get(i).split(",");
                     for (int j = 1; j < myFriendsInfo.length; j++) {
                         if (Integer.parseInt(myFriendsInfo[j]) == pairIndex(dayCounter, x)) {
-                            courseNamesArray[x] += /*courseNames.get(x)+ */" " + makeInitial(myFriendsInfo[0]);
+                            courseNamesArray[x] += " " + makeInitial(myFriendsInfo[0]);
                             System.out.println(courseNamesArray[x]);
                         }
                     }
                 }
             }
-        }
+        }*/
         courseNames.clear();
         for (int i = 0; i < courseNamesArray.length; i++) {
             courseNames.add(courseNamesArray[i]);
         }
-        ArrayAdapter<String> arrayAdapter =
+        /*ArrayAdapter<String> arrayAdapter =
                 new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, courseNames);
         listDays.setAdapter(arrayAdapter);
-
+        */
       /*  listDays.setOnItemLongClickListener(new AdapterView.OnItemLongClickListener()
         {
             // argument position gives the index of item which is clicked
@@ -846,8 +849,70 @@ public class MainActivity extends AppCompatActivity /*implements View.OnClickLis
         final int REL_SWIPE_THRESHOLD_VELOCITY = (int) (200.0f * dm.densityDpi / 160.0f + 0.5);
 
         ListView lv = (ListView) findViewById(R.id.listView);
-        lv.setAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1,
-                courseNames));
+        /*lv.setAdapter(new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1,
+                courseNames));*/
+        //////////////////////////////////////////////////////////////////////////////////////
+        String[] linkicons = {"","","","","","","","",""};
+
+
+        for (int x = 0; x < courseNames.size(); x++) {
+            if ((dayCounter != 0) && (courseNames.get(x).contains("Free") || courseNames.get(x).contains("Lunch"))) {
+                System.out.println("starting the friend process");
+                for (int i = 0; i < myFriends.size(); i++) {
+                    String[] myFriendsInfo = myFriends.get(i).split(",");
+                    for (int j = 1; j < myFriendsInfo.length; j++) {
+                        if (Integer.parseInt(myFriendsInfo[j]) == pairIndex(dayCounter, x)) {
+                            if(makeAbrev(myFriendsInfo[0])!= null) {
+                                linkicons[x] += " " + makeAbrev(myFriendsInfo[0]);
+                            }
+                            System.out.println(linkicons[x]);
+                           // courseNamesArray[x] += " " + makeInitial(myFriendsInfo[0]);
+
+                        }
+                    }
+                }
+            }
+        }
+
+
+
+
+
+        String[] classes = new String[courseNames.size()];
+        for(int i = 0; i < courseNames.size();i++){
+            classes[i]= courseNames.get(i);
+        }
+        String[] linkNames;
+        if(isTuesday) {
+            linkNames = tuesdayTimes;
+        }else{
+            linkNames=notTuesdayTimes;
+        }
+        List<HashMap<String,String>> aList = new ArrayList<HashMap<String,String>>();
+        //ListView listDays = (ListView) findViewById(R.id.listView);
+        for(int i=0;i<linkNames.length ;i++){
+            HashMap<String, String> hm = new HashMap<String,String>();
+            hm.put("periodName", "  " + linkNames[i]);
+
+            hm.put("friendFill",linkicons[i]);
+            aList.add(hm);
+            hm.put("className", classes[i]);
+        }
+        String[] from = { "friendFill","periodName","className"};
+        int[] to = {R.id.friendFill,R.id.periodName,R.id.className};
+        // Instantiating an adapter to store each items
+        // R.layout.listview_layout defines the layout of each item
+        SimpleAdapter adapter = new SimpleAdapter(getBaseContext(), aList, R.layout.schedulelist, from, to);
+        // Getting a reference to listview of main.xml layout file
+        // Setting the adapter to the listView
+        listDays.setAdapter(adapter);
+
+
+
+
+
+
+        ///////////////////////////////////////////////////////////////////////////////////////
         final GestureDetector gestureDetector = new GestureDetector(new MyGestureDetector());
         View.OnTouchListener gestureListener = new View.OnTouchListener() {
             public boolean onTouch(View v, MotionEvent event) {
@@ -984,12 +1049,33 @@ public class MainActivity extends AppCompatActivity /*implements View.OnClickLis
 
     }
     public String makeInitial(String fullName){
+        if(fullName == null){
+            return "";
+        }
         String initials = "";
         for(int i = 0; i < fullName.length();i++){
             if(Character.isUpperCase(fullName.charAt(i))){
                 initials += fullName.charAt(i);
             }
         }
+        return initials;
+    }
+    public String makeAbrev(String fullName){
+        if(fullName == null){
+            return "";
+        }
+        String initials = "";
+        String[] nameSplit = fullName.split(" ");
+        if(nameSplit.length >1){
+            initials = nameSplit[0] + " " + nameSplit[1].charAt(0);
+        }else{
+            initials = nameSplit[0];
+        }
+        /*for(int i = 0; i < fullName.length();i++){
+            if(Character.isUpperCase(fullName.charAt(i))){
+                initials += fullName.charAt(i);
+            }
+        }*/
         return initials;
     }
     public void findMyFrees(){

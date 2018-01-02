@@ -1,11 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\fuady\\.android\\build-cache\\1f4ade882a329f903596567dedf6e19f82f0974a\\output\\res\\color\\design_error.xml"
-    },
-    {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
         "source": "C:\\Users\\fuady\\.android\\build-cache\\f82a61480ea9357136503981e713d826f45a087e\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\fuady\\.android\\build-cache\\1f4ade882a329f903596567dedf6e19f82f0974a\\output\\res\\color\\design_error.xml"
     },
     {
         "merged": "C:\\Users\\fuady\\AndroidStudioProjects\\SSA_APP_REDO\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
