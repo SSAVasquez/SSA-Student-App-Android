@@ -9,7 +9,7 @@
         android:paddingLeft="@dimen/activity_horizontal_margin"
         android:paddingRight="@dimen/activity_horizontal_margin"
         android:paddingTop="@dimen/activity_vertical_margin"
-        android:background= "@mipmap/holiday">
+        android:background= "@mipmap/appbg3">
 
         <ImageView
             android:layout_width="50dp"
@@ -40,7 +40,7 @@
         <ImageView
             android:layout_width="50dp"
             android:layout_height="50dp"
-            android:src="@drawable/friendh"
+            android:src="@drawable/friends"
             android:text="Friends"
             android:id="@+id/button12"
             android:layout_gravity="bottom"

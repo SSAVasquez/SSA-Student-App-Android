@@ -8,6 +8,7 @@ import android.content.Intent;
 import android.media.Image;
 import android.net.Uri;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v4.app.NotificationCompat;
@@ -24,6 +25,12 @@ import android.widget.SimpleAdapter;
 import android.widget.Toast;
 
 import com.github.barteksc.pdfviewer.PDFView;
+import com.google.android.gms.auth.api.Auth;
+import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
+import com.google.android.gms.common.ConnectionResult;
+import com.google.android.gms.common.api.GoogleApiClient;
+import com.google.android.gms.common.api.ResultCallback;
+import com.google.android.gms.common.api.Status;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
@@ -65,34 +72,31 @@ import java.util.List;
         android:layout_marginLeft="6dp"
         android:layout_marginStart="6dp" />
  */
-public class otherActivity extends AppCompatActivity /*implements View.OnClickListener*/{
+public class otherActivity extends AppCompatActivity implements View.OnClickListener, GoogleApiClient.OnConnectionFailedListener{
     public WebView webView;
     public boolean pdfViewing = false;
-
-    private FirebaseAuth firebaseAuth;
-    private Button Logout;
+    private GoogleApiClient googleApiClient;
 
     @Override
     protected void onCreate(Bundle savedInstanceState){
         super.onCreate(savedInstanceState);
         setContentView(R.layout.others);
         setupListView();
-        /*firebaseAuth = FirebaseAuth.getInstance();
-
-        if(firebaseAuth.getCurrentUser() == null){
-            finish();
-            startActivity(new Intent(this, signInActivity.class));
-        }
-
-        FirebaseUser user = firebaseAuth.getCurrentUser();
-
-
-        Logout = (Button) findViewById(R.id.Logout);
-        //Logout.setOnClickListener(this);*/
+        GoogleSignInOptions signInOptions = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN).requestEmail().build();
+        googleApiClient = new GoogleApiClient.Builder(this).enableAutoManage(this,this).addApi(Auth.GOOGLE_SIGN_IN_API, signInOptions).build();
 
     }
-    public void signOut(View view){
-        firebaseAuth.signOut();
+    public void logOut(View view){
+        Auth.GoogleSignInApi.signOut(googleApiClient).setResultCallback(new ResultCallback<Status>() {
+            @Override
+            public void onResult(@NonNull Status status) {
+                updateUI();
+            }
+        });
+
+
+    }
+    public void updateUI(){
         finish();
         startActivity(new Intent(this, signInActivity.class));
     }
@@ -265,6 +269,16 @@ public class otherActivity extends AppCompatActivity /*implements View.OnClickLi
     public void back(View view){
         setContentView(R.layout.others);
         setupListView();
+    }
+
+    @Override
+    public void onClick(View v) {
+
+    }
+
+    @Override
+    public void onConnectionFailed(@NonNull ConnectionResult connectionResult) {
+
     }
 
     private class MyWebViewClient extends WebViewClient {

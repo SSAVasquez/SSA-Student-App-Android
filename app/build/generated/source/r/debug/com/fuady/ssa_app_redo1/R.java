@@ -2525,6 +2525,7 @@ containing a value of this type.
         public static final int teacherpageicon=0x7f02008d;
     }
     public static final class id {
+        public static final int Logout=0x7f0d00e7;
         public static final int action0=0x7f0d00ce;
         public static final int action_bar=0x7f0d0061;
         public static final int action_bar_activity_content=0x7f0d0000;
@@ -2557,7 +2558,7 @@ containing a value of this type.
         public static final int basic=0x7f0d0016;
         public static final int beginning=0x7f0d0029;
         public static final int bottom=0x7f0d0039;
-        public static final int browserView=0x7f0d00f4;
+        public static final int browserView=0x7f0d00ef;
         public static final int button=0x7f0d0072;
         public static final int button10=0x7f0d00c1;
         public static final int button11=0x7f0d00c2;
@@ -2578,7 +2579,6 @@ containing a value of this type.
         public static final int button8=0x7f0d00a2;
         public static final int button9=0x7f0d0099;
         public static final int buttonPanel=0x7f0d0048;
-        public static final int button_optional_action=0x7f0d00ef;
         public static final int camera_preview=0x7f0d00c9;
         public static final int cancel_action=0x7f0d00cf;
         public static final int centerCrop=0x7f0d003b;
@@ -2601,7 +2601,7 @@ containing a value of this type.
         public static final int checkBox9=0x7f0d0098;
         public static final int checkbox=0x7f0d0058;
         public static final int chronometer=0x7f0d00d7;
-        public static final int className=0x7f0d00ea;
+        public static final int className=0x7f0d00eb;
         public static final int clearButton=0x7f0d0080;
         public static final int codeEditText=0x7f0d00a6;
         public static final int collapseActionView=0x7f0d002f;
@@ -2622,9 +2622,7 @@ containing a value of this type.
         public static final int decor_content_parent=0x7f0d005f;
         public static final int default_activity_button=0x7f0d0044;
         public static final int deleteButon=0x7f0d009e;
-        public static final int detail=0x7f0d00ee;
         public static final int disableHome=0x7f0d001c;
-        public static final int disconnect_button=0x7f0d00f3;
         public static final int e1=0x7f0d00af;
         public static final int e2=0x7f0d00b1;
         public static final int e3=0x7f0d00b3;
@@ -2643,7 +2641,7 @@ containing a value of this type.
         public static final int fitCenter=0x7f0d003c;
         public static final int fitXY=0x7f0d003d;
         public static final int flag=0x7f0d00c7;
-        public static final int friendFill=0x7f0d00eb;
+        public static final int friendFill=0x7f0d00ec;
         public static final int home=0x7f0d0004;
         public static final int homeAsUp=0x7f0d001d;
         public static final int icon=0x7f0d0046;
@@ -2663,13 +2661,13 @@ containing a value of this type.
         public static final int listView=0x7f0d0078;
         public static final int listView2=0x7f0d00c5;
         public static final int list_item=0x7f0d0045;
-        public static final int main_layout=0x7f0d00ec;
+        public static final int main_layout=0x7f0d00ed;
         public static final int media_actions=0x7f0d00d1;
         public static final int middle=0x7f0d002b;
         public static final int moreText=0x7f0d00e2;
         public static final int multiply=0x7f0d0023;
         public static final int myCodeText=0x7f0d00ac;
-        public static final int myPdf=0x7f0d00e7;
+        public static final int myPdf=0x7f0d00e8;
         public static final int nameEditText=0x7f0d00a9;
         public static final int namePrompt=0x7f0d00a8;
         public static final int never=0x7f0d0031;
@@ -2682,7 +2680,7 @@ containing a value of this type.
         public static final int packed=0x7f0d0013;
         public static final int parent=0x7f0d0010;
         public static final int parentPanel=0x7f0d004a;
-        public static final int periodName=0x7f0d00e9;
+        public static final int periodName=0x7f0d00ea;
         public static final int previousDayButton=0x7f0d0075;
         public static final int progress_circular=0x7f0d0005;
         public static final int progress_horizontal=0x7f0d0006;
@@ -2694,7 +2692,7 @@ containing a value of this type.
         public static final int scan_button=0x7f0d009d;
         public static final int scan_content=0x7f0d009c;
         public static final int scan_format=0x7f0d009b;
-        public static final int scanner=0x7f0d00e8;
+        public static final int scanner=0x7f0d00e9;
         public static final int screen=0x7f0d0024;
         public static final int scrollIndicatorDown=0x7f0d0050;
         public static final int scrollIndicatorUp=0x7f0d004c;
@@ -2715,9 +2713,7 @@ containing a value of this type.
         public static final int showCustom=0x7f0d001e;
         public static final int showHome=0x7f0d001f;
         public static final int showTitle=0x7f0d0020;
-        public static final int sign_in_button=0x7f0d00f0;
-        public static final int sign_out_and_disconnect=0x7f0d00f1;
-        public static final int sign_out_button=0x7f0d00f2;
+        public static final int sign_in_button=0x7f0d00ee;
         public static final int spacer=0x7f0d0049;
         public static final int split_action_bar=0x7f0d0007;
         public static final int spread=0x7f0d0011;
@@ -2726,7 +2722,6 @@ containing a value of this type.
         public static final int src_in=0x7f0d0026;
         public static final int src_over=0x7f0d0027;
         public static final int standard=0x7f0d0034;
-        public static final int status=0x7f0d00ed;
         public static final int status_bar_latest_event_content=0x7f0d00d0;
         public static final int submenuarrow=0x7f0d005b;
         public static final int submit_area=0x7f0d006c;
@@ -2764,16 +2759,16 @@ containing a value of this type.
         public static final int wrap=0x7f0d0012;
         public static final int wrap_content=0x7f0d0028;
         public static final int zxing_back_button=0x7f0d0009;
-        public static final int zxing_barcode_scanner=0x7f0d00f8;
-        public static final int zxing_barcode_surface=0x7f0d00f5;
+        public static final int zxing_barcode_scanner=0x7f0d00f3;
+        public static final int zxing_barcode_surface=0x7f0d00f0;
         public static final int zxing_camera_error=0x7f0d000a;
         public static final int zxing_decode=0x7f0d000b;
         public static final int zxing_decode_failed=0x7f0d000c;
         public static final int zxing_decode_succeeded=0x7f0d000d;
         public static final int zxing_possible_result_points=0x7f0d000e;
         public static final int zxing_prewiew_size_ready=0x7f0d000f;
-        public static final int zxing_status_view=0x7f0d00f7;
-        public static final int zxing_viewfinder_view=0x7f0d00f6;
+        public static final int zxing_status_view=0x7f0d00f2;
+        public static final int zxing_viewfinder_view=0x7f0d00f1;
     }
     public static final class integer {
         public static final int abc_config_activityDefaultDur=0x7f090002;
@@ -2922,15 +2917,13 @@ containing a value of this type.
         public static final int common_signin_button_text=0x7f070022;
         public static final int common_signin_button_text_long=0x7f070023;
         public static final int default_web_client_id=0x7f070039;
-        public static final int firebase_database_url=0x7f07003a;
-        public static final int gcm_defaultSenderId=0x7f07003b;
-        public static final int google_api_key=0x7f07003c;
-        public static final int google_app_id=0x7f07003d;
-        public static final int google_crash_reporting_api_key=0x7f07003e;
-        public static final int google_storage_bucket=0x7f07003f;
-        public static final int project_id=0x7f070040;
-        public static final int scan=0x7f070041;
-        public static final int scan_bar_code=0x7f070042;
+        public static final int gcm_defaultSenderId=0x7f07003a;
+        public static final int google_api_key=0x7f07003b;
+        public static final int google_app_id=0x7f07003c;
+        public static final int google_crash_reporting_api_key=0x7f07003d;
+        public static final int project_id=0x7f07003e;
+        public static final int scan=0x7f07003f;
+        public static final int scan_bar_code=0x7f070040;
         public static final int search_menu_title=0x7f070024;
         public static final int status_bar_notification_info_overflow=0x7f070025;
         public static final int zxing_app_name=0x7f070026;
