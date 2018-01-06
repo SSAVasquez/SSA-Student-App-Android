@@ -44,7 +44,14 @@ public class signInActivity extends AppCompatActivity  implements View.OnClickLi
         googleApiClient = new GoogleApiClient.Builder(this).enableAutoManage(this,this).addApi(Auth.GOOGLE_SIGN_IN_API, signInOptions).build();
     }
 
-
+    @Override
+    protected void onStart() {
+        super.onStart();
+        GoogleSignInAccount account = GoogleSignIn.getLastSignedInAccount(this);
+        if(account!= null) {
+            updateUI(true);
+        }
+    }
     @Override
     public void onClick(View v) {
         switch (v.getId()){
