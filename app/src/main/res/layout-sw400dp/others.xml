@@ -78,14 +78,7 @@
         android:id="@+id/linkView"
         android:layout_below="@id/moreText"
         />
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Log Out"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentTop="true"
-        android:id="@+id/Logout"
-        android:onClick="logOut"/>
+
 
 
 </RelativeLayout>

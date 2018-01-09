@@ -47,30 +47,23 @@ import java.util.List;
  */
 /* put this back in small other tab layout file
 <Button
-        android:id="@+id/Logout"
-        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Logout"
-        android:onClick="signOut"
-        android:layout_alignBaseline="@+id/moreText"
-        android:layout_alignBottom="@+id/moreText"
-        android:layout_toRightOf="@+id/button17"
-        android:layout_toEndOf="@+id/button17" />
+        android:text="Log Out"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:id="@+id/Logout"
+        android:onClick="logOut"/>
  */
 /* put this back in large other tab layout file
 <Button
-        android:id="@+id/Logout"
-        style="@style/Widget.AppCompat.Button.Colored"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Logout"
-        android:onClick="signOut"
+        android:text="Log Out"
+        android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
-        android:layout_toRightOf="@+id/button17"
-        android:layout_toEndOf="@+id/button17"
-        android:layout_marginLeft="6dp"
-        android:layout_marginStart="6dp" />
+        android:id="@+id/Logout"
+        android:onClick="logOut"/>
  */
 public class otherActivity extends AppCompatActivity implements View.OnClickListener, GoogleApiClient.OnConnectionFailedListener{
     public WebView webView;

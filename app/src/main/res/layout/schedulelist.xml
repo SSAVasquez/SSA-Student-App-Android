@@ -8,32 +8,35 @@
     <TextView
         android:id="@+id/periodName"
         android:layout_width="170dp"
-        android:layout_marginTop="5dp"
-        android:layout_marginLeft="5dp"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:fontFamily="serif"
         android:textColor="#000000"
         android:textSize="14dp" />
+
     <TextView
         android:id="@+id/className"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignTop="@id/periodName"
-        android:layout_toRightOf="@id/periodName"
         android:layout_marginLeft="25dp"
+        android:layout_toRightOf="@id/periodName"
+        android:fontFamily="serif"
         android:textColor="#000000"
         android:textSize="14dp" />
 
     <TextView
-        android:layout_below="@+id/periodName"
         android:id="@+id/friendFill"
-        android:layout_marginTop="5dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentLeft="true"
+        android:layout_below="@+id/periodName"
         android:layout_marginLeft="50dp"
-        android:textSize="12dp"
+        android:layout_marginTop="5dp"
+        android:fontFamily="monospace"
 
-        />
+        android:textSize="12dp" />
 
 
 
